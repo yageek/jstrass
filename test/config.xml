@@ -1,0 +1,3711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="PKTDSegurConfiguration.xsd">
+   <TableDesNoeuds>
+      <NOD Ident="100" Nom="noeud 100"/>
+      <NOD Ident="101" Nom="noeud 101"/>
+      <NOD Ident="102" Nom="noeud 102"/>
+      <NOD Ident="104" Nom="noeud 104"/>
+      <NOD Ident="106" Nom="noeud 106"/>
+      <NOD Ident="108" Nom="noeud 108"/>
+      <NOD Ident="117" Nom="noeud 117"/>
+      <NOD Ident="119" Nom="noeud 119"/>
+      <NOD Ident="121" Nom="noeud 121"/>
+      <NOD Ident="123" Nom="noeud 123"/>
+      <NOD Ident="124" Nom="noeud 124"/>
+      <NOD Ident="125" Nom="noeud 125"/>
+      <NOD Ident="126" Nom="noeud 126"/>
+      <NOD Ident="127" Nom="noeud 127"/>
+      <NOD Ident="128" Nom="noeud 128"/>
+      <NOD Ident="129" Nom="noeud 129"/>
+      <NOD Ident="131" Nom="noeud 131"/>
+      <NOD Ident="134" Nom="noeud 134"/>
+      <NOD Ident="150" Nom="noeud 150"/>
+      <NOD Ident="151" Nom="noeud 151"/>
+      <NOD Ident="152" Nom="noeud 152"/>
+      <NOD Ident="201" Nom="noeud 201"/>
+      <NOD Ident="202" Nom="noeud 202"/>
+      <NOD Ident="203" Nom="noeud 203"/>
+      <NOD Ident="204" Nom="noeud 204"/>
+      <NOD Ident="205" Nom="noeud 205"/>
+      <NOD Ident="206" Nom="noeud 206"/>
+      <NOD Ident="207" Nom="noeud 207"/>
+      <NOD Ident="208" Nom="noeud 208"/>
+      <NOD Ident="209" Nom="noeud 209"/>
+      <NOD Ident="211" Nom="noeud 211"/>
+      <NOD Ident="212" Nom="noeud 212"/>
+      <NOD Ident="213" Nom="noeud 213"/>
+      <NOD Ident="215" Nom="noeud 215"/>
+      <NOD Ident="216" Nom="noeud 216"/>
+      <NOD Ident="217" Nom="noeud 217"/>
+      <NOD Ident="218" Nom="noeud 218"/>
+      <NOD Ident="219" Nom="noeud 219"/>
+      <NOD Ident="220" Nom="noeud 220"/>
+      <NOD Ident="221" Nom="noeud 221"/>
+      <NOD Ident="222" Nom="noeud 222"/>
+      <NOD Ident="223" Nom="noeud 223"/>
+      <NOD Ident="225" Nom="noeud 225"/>
+      <NOD Ident="226" Nom="noeud 226"/>
+      <NOD Ident="227" Nom="noeud 227"/>
+      <NOD Ident="228" Nom="noeud 228"/>
+      <NOD Ident="230" Nom="noeud 230"/>
+      <NOD Ident="231" Nom="noeud 231"/>
+      <NOD Ident="232" Nom="noeud 232"/>
+      <NOD Ident="233" Nom="noeud 233"/>
+      <NOD Ident="234" Nom="noeud 234"/>
+      <NOD Ident="235" Nom="noeud 235"/>
+      <NOD Ident="301" Nom="noeud 301"/>
+      <NOD Ident="302" Nom="noeud 302"/>
+      <NOD Ident="304" Nom="noeud 304"/>
+      <NOD Ident="305" Nom="noeud 305"/>
+      <NOD Ident="306" Nom="noeud 306"/>
+      <NOD Ident="307" Nom="noeud 307"/>
+      <NOD Ident="308" Nom="noeud 308"/>
+      <NOD Ident="309" Nom="noeud 309"/>
+      <NOD Ident="311" Nom="noeud 311"/>
+      <NOD Ident="312" Nom="noeud 312"/>
+      <NOD Ident="313" Nom="noeud 313"/>
+      <NOD Ident="330" Nom="noeud 330"/>
+      <NOD Ident="331" Nom="noeud 331"/>
+      <NOD Ident="332" Nom="noeud 332"/>
+      <NOD Ident="333" Nom="noeud 333"/>
+      <NOD Ident="334" Nom="noeud 334"/>
+      <NOD Ident="335" Nom="noeud 335"/>
+      <NOD Ident="336" Nom="noeud 336"/>
+      <NOD Ident="337" Nom="noeud 337"/>
+      <NOD Ident="338" Nom="noeud 338"/>
+      <NOD Ident="341" Nom="noeud 341"/>
+      <NOD Ident="345" Nom="noeud 345"/>
+      <NOD Ident="349" Nom="noeud 349"/>
+      <NOD Ident="351" Nom="noeud 351"/>
+      <NOD Ident="352" Nom="noeud 352"/>
+      <NOD Ident="353" Nom="noeud 353"/>
+      <NOD Ident="355" Nom="noeud 355"/>
+      <NOD Ident="356" Nom="noeud 356"/>
+      <NOD Ident="358" Nom="noeud 358"/>
+      <NOD Ident="359" Nom="noeud 359"/>
+      <NOD Ident="360" Nom="noeud 360"/>
+      <NOD Ident="361" Nom="noeud 361"/>
+      <NOD Ident="362" Nom="noeud 362"/>
+      <NOD Ident="363" Nom="noeud 363"/>
+      <NOD Ident="364" Nom="noeud 364"/>
+      <NOD Ident="381" Nom="noeud 381"/>
+      <NOD Ident="382" Nom="noeud 382"/>
+      <NOD Ident="383" Nom="noeud 383"/>
+      <NOD Ident="386" Nom="noeuf 386"/>
+      <NOD Ident="387" Nom="noeud 387"/>
+      <NOD Ident="395" Nom="noeud 395"/>
+      <NOD Ident="401" Nom="noeud 401"/>
+      <NOD Ident="403" Nom="noeud 403"/>
+      <NOD Ident="404" Nom="noeud 404"/>
+      <NOD Ident="405" Nom="noeud 405"/>
+      <NOD Ident="406" Nom="noeud 406"/>
+      <NOD Ident="407" Nom="noeud 407"/>
+      <NOD Ident="408" Nom="noeud 408"/>
+      <NOD Ident="409" Nom="noeud 409"/>
+      <NOD Ident="410" Nom="noeud 410"/>
+      <NOD Ident="411" Nom="noeud 411"/>
+      <NOD Ident="412" Nom="noeud 412"/>
+      <NOD Ident="414" Nom="noeud 414"/>
+      <NOD Ident="416" Nom="noeud 416"/>
+      <NOD Ident="418" Nom="noeud 418"/>
+      <NOD Ident="419" Nom="noeud 419"/>
+      <NOD Ident="420" Nom="noeud 420"/>
+      <NOD Ident="421" Nom="noeud 421"/>
+      <NOD Ident="422" Nom="noeud 422"/>
+      <NOD Ident="423" Nom="noeud 423"/>
+      <NOD Ident="431" Nom="noeud 431"/>
+      <NOD Ident="433" Nom="noeud 433"/>
+      <NOD Ident="434" Nom="noeud 434"/>
+      <NOD Ident="440" Nom="noeud 440"/>
+      <NOD Ident="441" Nom="noeud 441"/>
+      <NOD Ident="444" Nom="noeud 444"/>
+      <NOD Ident="451" Nom="noeud 451"/>
+      <NOD Ident="452" Nom="noeud 452"/>
+      <NOD Ident="453" Nom="noeud 453"/>
+      <NOD Ident="454" Nom="noeud 454"/>
+      <NOD Ident="455" Nom="noeud 455"/>
+      <NOD Ident="456" Nom="noeud 456"/>
+      <NOD Ident="457" Nom="noeud 457"/>
+      <NOD Ident="461" Nom="noeud 461"/>
+      <NOD Ident="501" Nom="noeud 501"/>
+      <NOD Ident="502" Nom="noeud 502"/>
+      <NOD Ident="503" Nom="noeud 503"/>
+      <NOD Ident="504" Nom="noeud 504"/>
+      <NOD Ident="505" Nom="noeud 505"/>
+      <NOD Ident="506" Nom="noeud 506"/>
+      <NOD Ident="507" Nom="noeud 507"/>
+      <NOD Ident="508" Nom="noeud 508"/>
+      <NOD Ident="509" Nom="noeud 509"/>
+      <NOD Ident="510" Nom="noeud 510"/>
+      <NOD Ident="511" Nom="noeud 511"/>
+      <NOD Ident="512" Nom="noeud 512"/>
+      <NOD Ident="513" Nom="noeud 513"/>
+      <NOD Ident="514" Nom="noeud 514"/>
+      <NOD Ident="517" Nom="noeud 517"/>
+      <NOD Ident="519" Nom="noeud 519"/>
+      <NOD Ident="520" Nom="noeud 520"/>
+      <NOD Ident="521" Nom="noeud 521"/>
+      <NOD Ident="522" Nom="noeud 522"/>
+      <NOD Ident="523" Nom="noeud 523"/>
+      <NOD Ident="524" Nom="noeud 524"/>
+      <NOD Ident="526" Nom="noeud 526"/>
+      <NOD Ident="527" Nom="noeud 527"/>
+      <NOD Ident="529" Nom="noeud 529"/>
+      <NOD Ident="530" Nom="noeud 530"/>
+      <NOD Ident="531" Nom="noeud 531"/>
+      <NOD Ident="532" Nom="noeud 532"/>
+      <NOD Ident="533" Nom="noeud 533"/>
+      <NOD Ident="534" Nom="noeud 534"/>
+      <NOD Ident="535" Nom="noeud 535"/>
+      <NOD Ident="537" Nom="noeud 537"/>
+      <NOD Ident="538" Nom="noeud 538"/>
+      <NOD Ident="541" Nom="noeud 541"/>
+      <NOD Ident="579" Nom="noeud 579"/>
+      <NOD Ident="580" Nom="noeud 580"/>
+      <NOD Ident="581" Nom="noeud 581"/>
+      <NOD Ident="582" Nom="noeud 582"/>
+      <NOD Ident="601" Nom="noeud 601"/>
+      <NOD Ident="602" Nom="noeud 602"/>
+      <NOD Ident="603" Nom="noeud 603"/>
+      <NOD Ident="604" Nom="noeud 604"/>
+      <NOD Ident="606" Nom="noeud 606"/>
+      <NOD Ident="607" Nom="noeud 607"/>
+      <NOD Ident="610" Nom="noeud 610"/>
+      <NOD Ident="611" Nom="noeud 611"/>
+      <NOD Ident="612" Nom="noeud 612"/>
+      <NOD Ident="613" Nom="noeud 613"/>
+      <NOD Ident="614" Nom="noeud 614"/>
+      <NOD Ident="615" Nom="noeud 615"/>
+      <NOD Ident="617" Nom="noeud 617"/>
+      <NOD Ident="621" Nom="noeud 621"/>
+      <NOD Ident="623" Nom="noeud 623"/>
+      <NOD Ident="626" Nom="noeud 626"/>
+      <NOD Ident="627" Nom="noeud 627"/>
+      <NOD Ident="631" Nom="noeud 631"/>
+      <NOD Ident="647" Nom="noeud 647"/>
+      <NOD Ident="648" Nom="noeud 648"/>
+      <NOD Ident="650" Nom="noeud 650"/>
+      <NOD Ident="651" Nom="noeud 651"/>
+      <NOD Ident="661" Nom="noeud 661"/>
+      <NOD Ident="664" Nom="noeud 664"/>
+      <NOD Ident="679" Nom="noeud 679"/>
+      <NOD Ident="681" Nom="noeud 681"/>
+      <NOD Ident="683" Nom="noeud 683"/>
+      <NOD Ident="684" Nom="noeud 684"/>
+      <NOD Ident="685" Nom="noeud 685"/>
+      <NOD Ident="686" Nom="noeud 686"/>
+      <NOD Ident="687" Nom="Noeud 687"/>
+      <NOD Ident="688" Nom="noeud 688"/>
+      <NOD Ident="689" Nom="noeud 689"/>
+      <NOD Ident="691" Nom="noeud 691"/>
+      <NOD Ident="696" Nom="noeud 696"/>
+      <NOD Ident="697" Nom="noeud 697"/>
+      <NOD Ident="700" Nom="noeud 700"/>
+      <NOD Ident="702" Nom="noeud 702"/>
+      <NOD Ident="703" Nom="noeud 703"/>
+      <NOD Ident="704" Nom="noeud 704"/>
+      <NOD Ident="705" Nom="noeud 705"/>
+      <NOD Ident="708" Nom="noeud 708"/>
+      <NOD Ident="709" Nom="noeud 709"/>
+      <NOD Ident="710" Nom="noeud 710"/>
+      <NOD Ident="711" Nom="noeud 711"/>
+      <NOD Ident="712" Nom="noeud 712"/>
+      <NOD Ident="713" Nom="noeud 713"/>
+      <NOD Ident="714" Nom="noeud 714"/>
+      <NOD Ident="715" Nom="noeud 715"/>
+      <NOD Ident="716" Nom="noeud 716"/>
+      <NOD Ident="717" Nom="noeud 717"/>
+      <NOD Ident="740" Nom="noeud 740"/>
+      <NOD Ident="741" Nom="noeud 741"/>
+      <NOD Ident="742" Nom="noeud 742"/>
+      <NOD Ident="743" Nom="noeud 743"/>
+      <NOD Ident="745" Nom="Canardiere - Bourgogne"/>
+      <NOD Ident="746" Nom="noeud 746"/>
+      <NOD Ident="747" Nom="noeud 747"/>
+      <NOD Ident="751" Nom="noeud 751"/>
+      <NOD Ident="770" Nom="noeud 770"/>
+      <NOD Ident="771" Nom="noeud 771"/>
+      <NOD Ident="772" Nom="noeud 772"/>
+      <NOD Ident="773" Nom="noeud 773"/>
+      <NOD Ident="774" Nom="noeud 774"/>
+      <NOD Ident="775" Nom="noeud 775"/>
+      <NOD Ident="776" Nom="noeud 776"/>
+      <NOD Ident="800" Nom="noeud 800"/>
+      <NOD Ident="801" Nom="noeud 801"/>
+      <NOD Ident="802" Nom="noeud 802"/>
+      <NOD Ident="803" Nom="noeud 803"/>
+      <NOD Ident="804" Nom="noeud 804"/>
+      <NOD Ident="805" Nom="noeud 805"/>
+      <NOD Ident="806" Nom="noeud 806"/>
+      <NOD Ident="807" Nom="noeud 807"/>
+      <NOD Ident="808" Nom="noeud 808"/>
+      <NOD Ident="810" Nom="noeud 810"/>
+      <NOD Ident="811" Nom="noeud 811"/>
+      <NOD Ident="812" Nom="noeud 812"/>
+      <NOD Ident="814" Nom="noeud 814"/>
+      <NOD Ident="818" Nom="Noeud 818"/>
+      <NOD Ident="819" Nom="noeud 819"/>
+      <NOD Ident="820" Nom="noeud 820"/>
+      <NOD Ident="821" Nom="noeud 821"/>
+      <NOD Ident="822" Nom="noeud 822"/>
+      <NOD Ident="823" Nom="noeud 823"/>
+      <NOD Ident="824" Nom="noeud 824"/>
+      <NOD Ident="828" Nom="noeud 828"/>
+      <NOD Ident="829" Nom="noeud 829"/>
+      <NOD Ident="830" Nom="noeud 830"/>
+      <NOD Ident="832" Nom="noeud 832"/>
+      <NOD Ident="833" Nom="noeud 833"/>
+      <NOD Ident="834" Nom="noeud 834"/>
+      <NOD Ident="835" Nom="noeud 835"/>
+      <NOD Ident="836" Nom="noeud 836"/>
+      <NOD Ident="846" Nom="noeud 846"/>
+      <NOD Ident="849" Nom="noeud 849"/>
+      <NOD Ident="850" Nom="noeud 850"/>
+      <NOD Ident="851" Nom="noeud 851"/>
+      <NOD Ident="852" Nom="noeud 852"/>
+      <NOD Ident="854" Nom="noeud 854"/>
+      <NOD Ident="857" Nom="noeud 857"/>
+      <NOD Ident="860" Nom="noeud 860"/>
+      <NOD Ident="861" Nom="noeud 861"/>
+      <NOD Ident="863" Nom="noeud 863"/>
+      <NOD Ident="864" Nom="noeud 864"/>
+      <NOD Ident="865" Nom="noeud 865"/>
+      <NOD Ident="866" Nom="noeud 866"/>
+      <NOD Ident="870" Nom="noeud 870"/>
+      <NOD Ident="871" Nom="noeud 871"/>
+      <NOD Ident="872" Nom="noeud 872"/>
+      <NOD Ident="873" Nom="noeud 873"/>
+      <NOD Ident="880" Nom="noeud 880"/>
+      <NOD Ident="881" Nom="noeud 881"/>
+      <NOD Ident="884" Nom="noeud 884"/>
+      <NOD Ident="885" Nom="noeud 885"/>
+      <NOD Ident="900" Nom="noeud 900"/>
+      <NOD Ident="901" Nom="noeud 901"/>
+      <NOD Ident="902" Nom="noeud 902"/>
+      <NOD Ident="903" Nom="noeud 903"/>
+      <NOD Ident="904" Nom="noeud 904"/>
+      <NOD Ident="905" Nom="noeud 905"/>
+      <NOD Ident="906" Nom="noeud 906"/>
+      <NOD Ident="908" Nom="noeud 908"/>
+      <NOD Ident="910" Nom="noeud 910"/>
+      <NOD Ident="911" Nom="noeud 911"/>
+      <NOD Ident="912" Nom="noeud 912"/>
+      <NOD Ident="913" Nom="noeud 913"/>
+      <NOD Ident="915" Nom="noeud 915"/>
+      <NOD Ident="920" Nom="noeud 920"/>
+      <NOD Ident="921" Nom="noeud 921"/>
+      <NOD Ident="922" Nom="noeud 922"/>
+      <NOD Ident="952" Nom="noeud 952"/>
+      <NOD Ident="953" Nom="noeud 953"/>
+      <NOD Ident="960" Nom="noeud 960"/>
+      <NOD Ident="961" Nom="noeud 961"/>
+      <NOD Ident="962" Nom="noeud 962"/>
+      <NOD Ident="1023" Nom="noeud 1023"/>
+      <NOD Ident="1024" Nom="noeud 1024"/>
+      <NOD Ident="1025" Nom="noeud 1025"/>
+      <NOD Ident="1026" Nom="noeud 1026"/>
+      <NOD Ident="1027" Nom="noeud 1027"/>
+      <NOD Ident="1029" Nom="noeud 1029"/>
+      <NOD Ident="1031" Nom="noeud 1031"/>
+      <NOD Ident="1032" Nom="noeud 1032"/>
+      <NOD Ident="1033" Nom="noeud 1033"/>
+      <NOD Ident="1034" Nom="noeud 1034"/>
+      <NOD Ident="1043" Nom="noeud 1043"/>
+      <NOD Ident="1045" Nom="noeud 1045"/>
+      <NOD Ident="1051" Nom="noeud 1051"/>
+      <NOD Ident="1052" Nom="noeud 1052"/>
+      <NOD Ident="1053" Nom="noeud 1053"/>
+      <NOD Ident="1055" Nom="noeud 1055"/>
+      <NOD Ident="1056" Nom="noeud 1056"/>
+      <NOD Ident="1057" Nom="noeud 1057"/>
+      <NOD Ident="1058" Nom="noeud 1058"/>
+      <NOD Ident="1059" Nom="noeud 1059"/>
+      <NOD Ident="1060" Nom="noeud 1060"/>
+      <NOD Ident="1061" Nom="noeud 1061"/>
+      <NOD Ident="1062" Nom="noeud 1062"/>
+      <NOD Ident="1084" Nom="noeud 1084"/>
+      <NOD Ident="1090" Nom="noeud 1090"/>
+      <NOD Ident="1101" Nom="noeud 1101"/>
+      <NOD Ident="1104" Nom="noeud 1104"/>
+      <NOD Ident="1107" Nom="noeud 1107"/>
+      <NOD Ident="1108" Nom="noeud 1108"/>
+      <NOD Ident="1111" Nom="noeud 1111"/>
+      <NOD Ident="1120" Nom="noeud 1120"/>
+      <NOD Ident="1156" Nom="noeud 1156"/>
+      <NOD Ident="1157" Nom="noeud 1157"/>
+      <NOD Ident="1158" Nom="noeud 1158"/>
+      <NOD Ident="1159" Nom="noeud 1159"/>
+      <NOD Ident="1160" Nom="noeud 1160"/>
+      <NOD Ident="1161" Nom="noeud 1161"/>
+      <NOD Ident="1162" Nom="noeud 1162"/>
+      <NOD Ident="1163" Nom="noeud 1163"/>
+      <NOD Ident="1165" Nom="noeud 1165"/>
+      <NOD Ident="1166" Nom="noeud 1166"/>
+      <NOD Ident="1167" Nom="noeud 1167"/>
+      <NOD Ident="1169" Nom="noeud 1169"/>
+      <NOD Ident="1170" Nom="noeud 1170"/>
+      <NOD Ident="1171" Nom="noeud 1171"/>
+      <NOD Ident="1172" Nom="noeud 1172"/>
+      <NOD Ident="1173" Nom="noeud 1173"/>
+      <NOD Ident="1174" Nom="noeud 1174"/>
+      <NOD Ident="1175" Nom="noeud 1175"/>
+      <NOD Ident="1176" Nom="noeud 1176"/>
+      <NOD Ident="1177" Nom="noeud 1177"/>
+      <NOD Ident="1180" Nom="noeud 1180"/>
+      <NOD Ident="1181" Nom="noeud 1181"/>
+      <NOD Ident="1182" Nom="noeud 1182"/>
+      <NOD Ident="1183" Nom="noeud 1183"/>
+      <NOD Ident="1184" Nom="noeud 1184"/>
+      <NOD Ident="1188" Nom="noeud 1188"/>
+      <NOD Ident="1189" Nom="noeud 1189"/>
+      <NOD Ident="1190" Nom="noeud 1190"/>
+      <NOD Ident="1191" Nom="noeud 1191"/>
+      <NOD Ident="1193" Nom="noeud 1193"/>
+      <NOD Ident="1194" Nom="noeud 1194"/>
+      <NOD Ident="1195" Nom="noeud 1195"/>
+      <NOD Ident="1196" Nom="noeud 1196"/>
+      <NOD Ident="1197" Nom="noeud 1197"/>
+      <NOD Ident="1198" Nom="noeud 1198"/>
+      <NOD Ident="1199" Nom="noeud 1199"/>
+      <NOD Ident="1201" Nom="noeud 1201"/>
+      <NOD Ident="1202" Nom="noeud 1202"/>
+      <NOD Ident="1204" Nom="noeud 1204"/>
+      <NOD Ident="1205" Nom="noeud 1205"/>
+      <NOD Ident="1206" Nom="noeud 1206"/>
+      <NOD Ident="1207" Nom="noeud 1207"/>
+      <NOD Ident="1208" Nom="noeud 1208"/>
+      <NOD Ident="1211" Nom="noeud 1211"/>
+      <NOD Ident="1212" Nom="noeud 1212"/>
+      <NOD Ident="1213" Nom="noeud 1213"/>
+      <NOD Ident="1214" Nom="noeud 1214"/>
+      <NOD Ident="1215" Nom="noeud 1215"/>
+      <NOD Ident="1219" Nom="noeud 1219"/>
+      <NOD Ident="1220" Nom="noeud 1220"/>
+      <NOD Ident="1222" Nom="noeud 1222"/>
+      <NOD Ident="1223" Nom="noeud 1223"/>
+      <NOD Ident="1224" Nom="noeud 1224"/>
+      <NOD Ident="1226" Nom="noeud 1226"/>
+      <NOD Ident="1227" Nom="noeud 1227"/>
+      <NOD Ident="1228" Nom="noeud 1228"/>
+      <NOD Ident="1229" Nom="noeud 1229"/>
+      <NOD Ident="1232" Nom="noeud 1232"/>
+      <NOD Ident="1240" Nom="noeud 1240"/>
+      <NOD Ident="1241" Nom="noeud 1241"/>
+      <NOD Ident="1242" Nom="noeud 1242"/>
+      <NOD Ident="1244" Nom="noeud 1244"/>
+      <NOD Ident="1247" Nom="noeud 1247"/>
+      <NOD Ident="1250" Nom="noeud 1250"/>
+      <NOD Ident="1251" Nom="noeud 1251"/>
+      <NOD Ident="1252" Nom="noeud 1252"/>
+      <NOD Ident="1272" Nom="noeud 1272"/>
+      <NOD Ident="1282" Nom="noeud 1282"/>
+      <NOD Ident="1283" Nom="noeud 1283"/>
+      <NOD Ident="1285" Nom="noeud 1285"/>
+      <NOD Ident="1287" Nom="noeud 1287"/>
+      <NOD Ident="1300" Nom="noeud 1300"/>
+      <NOD Ident="1301" Nom="noeud 1301"/>
+      <NOD Ident="1302" Nom="noeud 1302"/>
+      <NOD Ident="1664" Nom="noeud 1664"/>
+      <NOD Ident="2023" Nom="noeud 2023"/>
+      <NOD Ident="2197" Nom="noeud 2197"/>
+      <NOD Ident="2355" Nom="noeud 2355"/>
+      <NOD Ident="2740" Nom="noeud 2740"/>
+      <NOD Ident="3171" Nom="noeud 3171"/>
+      <NOD Ident="3172" Nom="noeud 3172"/>
+      <NOD Ident="3307" Nom="noeud 3307"/>
+      <NOD Ident="3308" Nom="noeud 3308"/>
+      <NOD Ident="4452" Nom="noeud 4452"/>
+      <NOD Ident="5028" Nom="noeud 5028"/>
+      <NOD Ident="5101" Nom="noeud 5101"/>
+      <NOD Ident="6928" Nom="noeud 6928"/>
+      <NOD Ident="7167" Nom="noeud 7167"/>
+      <NOD Ident="7332" Nom="noeud 7332"/>
+      <NOD Ident="7774" Nom="noeud 7774"/>
+      <NOD Ident="8285" Nom="noeud 8285"/>
+      <NOD Ident="9051" Nom="noeud 9051"/>
+      <NOD Ident="9131" Nom="noeud 9131"/>
+      <NOD Ident="9212" Nom="noeud 9212"/>
+      <NOD Ident="9285" Nom="noeud 9285"/>
+      <NOD Ident="9331" Nom="noeud 9331"/>
+      <NOD Ident="9900" Nom="noeud 9900"/>
+      <NOD Ident="9901" Nom="noeud 9901"/>
+      <NOD Ident="9902" Nom="noeud 9902"/>
+      <NOD Ident="9903" Nom="noeud 9903"/>
+   </TableDesNoeuds>
+   <TableDesPoles>
+      <POL Ident="1162" Nom="p1162" NomCourt="-" NbNoeuds="1">
+         <IdentNOD>1162</IdentNOD>
+      </POL>
+      <POL Ident="1167" Nom="p1167" NomCourt="-" NbNoeuds="1">
+         <IdentNOD>1167</IdentNOD>
+      </POL>
+      <POL Ident="1169" Nom="p1169" NomCourt="-" NbNoeuds="1">
+         <IdentNOD>1169</IdentNOD>
+      </POL>
+      <POL Ident="1190" Nom="p1190" NomCourt="-" NbNoeuds="1">
+         <IdentNOD>1190</IdentNOD>
+      </POL>
+   </TableDesPoles>
+   <TableDesArcs>
+      <ARC Ident="1" Nom="Schirmeck1 - Entree Ville" IdentNoeudAmont="1170"
+           IdentNoeudAval="1169"
+           IdentPointMesure="0"
+           TypeReseau="P"
+           Longueur="445"/>
+      <ARC Ident="2" Nom="Schirmeck2 - Sortie Ville" IdentNoeudAmont="1169"
+           IdentNoeudAval="1170"
+           IdentPointMesure="0"
+           TypeReseau="P"
+           Longueur="445"/>
+      <ARC Ident="3" Nom="Schirmeck3 - Entree Ville" IdentNoeudAmont="1169"
+           IdentNoeudAval="1167"
+           IdentPointMesure="1115"
+           TypeReseau="P"
+           Longueur="595"/>
+      <ARC Ident="4" Nom="Schirmeck4 - Sortie Ville" IdentNoeudAmont="1167"
+           IdentNoeudAval="1169"
+           IdentPointMesure="1114"
+           TypeReseau="P"
+           Longueur="595"/>
+      <ARC Ident="5" Nom="Schirmeck5 - Entree Ville" IdentNoeudAmont="1167"
+           IdentNoeudAval="1159"
+           IdentPointMesure="1101"
+           TypeReseau="P"
+           Longueur="322"/>
+      <ARC Ident="6" Nom="Schirmeck6 - Sortie Ville" IdentNoeudAmont="1159"
+           IdentNoeudAval="1167"
+           IdentPointMesure="0"
+           TypeReseau="P"
+           Longueur="223"/>
+      <ARC Ident="7" Nom="Schirmeck7 - Entree Ville" IdentNoeudAmont="1159"
+           IdentNoeudAval="1166"
+           IdentPointMesure="0"
+           TypeReseau="P"
+           Longueur="132"/>
+      <ARC Ident="8" Nom="Schirmeck8 - Sortie Ville" IdentNoeudAmont="1166"
+           IdentNoeudAval="1159"
+           IdentPointMesure="1117"
+           TypeReseau="P"
+           Longueur="114"/>
+      <ARC Ident="9" Nom="Schirmeck9 - Entree Ville" IdentNoeudAmont="1166"
+           IdentNoeudAval="1160"
+           IdentPointMesure="1116"
+           TypeReseau="P"
+           Longueur="162"/>
+      <ARC Ident="10" Nom="Schirmeck10 - Sortie Ville" IdentNoeudAmont="1160"
+           IdentNoeudAval="1166"
+           IdentPointMesure="0"
+           TypeReseau="P"
+           Longueur="190"/>
+      <ARC Ident="11" Nom="Schirmeck11 - Entree Ville" IdentNoeudAmont="1160"
+           IdentNoeudAval="1165"
+           IdentPointMesure="0"
+           TypeReseau="P"
+           Longueur="413"/>
+      <ARC Ident="12" Nom="Schirmeck12 - Sortie Ville" IdentNoeudAmont="1165"
+           IdentNoeudAval="1160"
+           IdentPointMesure="1118"
+           TypeReseau="P"
+           Longueur="396"/>
+      <ARC Ident="13" Nom="Schirmeck13 - Entree Ville" IdentNoeudAmont="1165"
+           IdentNoeudAval="1163"
+           IdentPointMesure="0"
+           TypeReseau="P"
+           Longueur="183"/>
+      <ARC Ident="14" Nom="Schirmeck14 - Sortie Ville" IdentNoeudAmont="1163"
+           IdentNoeudAval="1165"
+           IdentPointMesure="1107"
+           TypeReseau="P"
+           Longueur="307"/>
+      <ARC Ident="15" Nom="Schirmeck15 - Entree Ville" IdentNoeudAmont="1163"
+           IdentNoeudAval="1162"
+           IdentPointMesure="1103"
+           TypeReseau="P"
+           Longueur="325"/>
+      <ARC Ident="16" Nom="Schirmeck16 - Sortie Ville" IdentNoeudAmont="1162"
+           IdentNoeudAval="1163"
+           IdentPointMesure="0"
+           TypeReseau="P"
+           Longueur="350"/>
+      <ARC Ident="17" Nom="Schirmeck17 - Entree Ville" IdentNoeudAmont="1162"
+           IdentNoeudAval="1161"
+           IdentPointMesure="0"
+           TypeReseau="P"
+           Longueur="287"/>
+      <ARC Ident="18" Nom="Schirmeck18 - Sortie Ville" IdentNoeudAmont="1161"
+           IdentNoeudAval="1162"
+           IdentPointMesure="1119"
+           TypeReseau="P"
+           Longueur="300"/>
+      <ARC Ident="19" Nom="Tour Verte -&gt; Sud" IdentNoeudAmont="1162" IdentNoeudAval="1181"
+           IdentPointMesure="0"
+           TypeReseau="P"
+           Longueur="225"/>
+      <ARC Ident="20" Nom="Tour Verte -&gt; Nord" IdentNoeudAmont="1181"
+           IdentNoeudAval="1162"
+           IdentPointMesure="1123"
+           TypeReseau="P"
+           Longueur="225"/>
+      <ARC Ident="21" Nom="Montagne-Verte21" IdentNoeudAmont="1181" IdentNoeudAval="1161"
+           IdentPointMesure="1122"
+           TypeReseau="P"
+           Longueur="290"/>
+      <ARC Ident="22" Nom="Montagne-Verte3 -&gt; Nord" IdentNoeudAmont="1182"
+           IdentNoeudAval="1181"
+           IdentPointMesure="1106"
+           TypeReseau="P"
+           Longueur="240"/>
+      <ARC Ident="23" Nom="Montagne-Verte4 -&gt; Sud" IdentNoeudAmont="1181"
+           IdentNoeudAval="1182"
+           IdentPointMesure="0"
+           TypeReseau="P"
+           Longueur="240"/>
+      <ARC Ident="24" Nom="Montagne-Verte5 -&gt; Nord" IdentNoeudAmont="1180"
+           IdentNoeudAval="1182"
+           IdentPointMesure="0"
+           TypeReseau="P"
+           Longueur="165"/>
+      <ARC Ident="25" Nom="Montagne-Verte6 -&gt; Sud" IdentNoeudAmont="1182"
+           IdentNoeudAval="1180"
+           IdentPointMesure="1104"
+           TypeReseau="P"
+           Longueur="165"/>
+      <ARC Ident="37" Nom="Ostwald1 -&gt; Sud" IdentNoeudAmont="1167" IdentNoeudAval="1189"
+           IdentPointMesure="0"
+           TypeReseau="P"
+           Longueur="195"/>
+      <ARC Ident="38" Nom="Ostwald2 -&gt; Nord" IdentNoeudAmont="1189" IdentNoeudAval="1167"
+           IdentPointMesure="0"
+           TypeReseau="P"
+           Longueur="195"/>
+      <ARC Ident="39" Nom="Ostwald3 -&gt; Sud" IdentNoeudAmont="1189" IdentNoeudAval="1190"
+           IdentPointMesure="1111"
+           TypeReseau="P"
+           Longueur="235"/>
+      <ARC Ident="40" Nom="Ostwald40 -&gt; Nord" IdentNoeudAmont="1190" IdentNoeudAval="1189"
+           IdentPointMesure="1110"
+           TypeReseau="P"
+           Longueur="235"/>
+      <ARC Ident="100" Nom="Tanneurs" IdentNoeudAmont="104" IdentNoeudAval="128"
+           IdentPointMesure="100"
+           TypeReseau="P"
+           Longueur="160"/>
+      <ARC Ident="101" Nom="St.Jean" IdentNoeudAmont="125" IdentNoeudAval="123"
+           IdentPointMesure="101"
+           TypeReseau="P"
+           Longueur="180"/>
+      <ARC Ident="104" Nom="Fbg de Pierre -&gt; Cl?menceau" IdentNoeudAmont="129"
+           IdentNoeudAval="405"
+           IdentPointMesure="104"
+           TypeReseau="P"
+           Longueur="390"/>
+      <ARC Ident="106" Nom="Division Leclerc" IdentNoeudAmont="108" IdentNoeudAval="201"
+           IdentPointMesure="106"
+           TypeReseau="P"
+           Longueur="130"/>
+      <ARC Ident="107" Nom="Rue des Serruriers" IdentNoeudAmont="215" IdentNoeudAval="108"
+           IdentPointMesure="107"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="108" Nom="Quai Kl?ber" IdentNoeudAmont="129" IdentNoeudAval="102"
+           IdentPointMesure="108"
+           TypeReseau="P"
+           Longueur="230"/>
+      <ARC Ident="109" Nom="Rue du Fbg de Pierre-&gt;Nu?e Bleue" IdentNoeudAmont="134"
+           IdentNoeudAval="129"
+           IdentPointMesure="109"
+           TypeReseau="P"
+           Longueur="390"/>
+      <ARC Ident="112" Nom="Faubourg de Saverne vers Bld Wilson" IdentNoeudAmont="125"
+           IdentNoeudAval="801"
+           IdentPointMesure="112"
+           TypeReseau="P"
+           Longueur="345"/>
+      <ARC Ident="113" Nom="Faubourg de Saverne vers Pont de Savern" IdentNoeudAmont="801"
+           IdentNoeudAval="125"
+           IdentPointMesure="113"
+           TypeReseau="P"
+           Longueur="345"/>
+      <ARC Ident="201" Nom="Quai Pasteur vers Quai Fustel" IdentNoeudAmont="301"
+           IdentNoeudAval="221"
+           IdentPointMesure="201"
+           TypeReseau="P"
+           Longueur="820"/>
+      <ARC Ident="202" Nom="Quai Pasteur vers Pont Pasteur" IdentNoeudAmont="221"
+           IdentNoeudAval="301"
+           IdentPointMesure="202"
+           TypeReseau="P"
+           Longueur="820"/>
+      <ARC Ident="203" Nom="Quai St.Nicolas -&gt; Quai des P?cheurs" IdentNoeudAmont="201"
+           IdentNoeudAval="444"
+           IdentPointMesure="203"
+           TypeReseau="P"
+           Longueur="640"/>
+      <ARC Ident="204" Nom="Quai St.Nicolas -&gt; Finkwiller" IdentNoeudAmont="444"
+           IdentNoeudAval="201"
+           IdentPointMesure="204"
+           TypeReseau="P"
+           Longueur="640"/>
+      <ARC Ident="205" Nom="Centre Administratif -&gt; Bourse" IdentNoeudAmont="208"
+           IdentNoeudAval="206"
+           IdentPointMesure="205"
+           TypeReseau="P"
+           Longueur="320"/>
+      <ARC Ident="206" Nom="Centre Administratif -&gt; Neudorf" IdentNoeudAmont="206"
+           IdentNoeudAval="208"
+           IdentPointMesure="206"
+           TypeReseau="P"
+           Longueur="320"/>
+      <ARC Ident="207" Nom="Rue de la Porte de l'H?pital" IdentNoeudAmont="204"
+           IdentNoeudAval="221"
+           IdentPointMesure="207"
+           TypeReseau="P"
+           Longueur="120"/>
+      <ARC Ident="208" Nom="Rte de l'H?pital/Belfort-&gt;Av. Colmar" IdentNoeudAmont="226"
+           IdentNoeudAval="700"
+           IdentPointMesure="208"
+           TypeReseau="P"
+           Longueur="390"/>
+      <ARC Ident="210" Nom="Rue de Vienne -&gt; Pont d'Austerlitz" IdentNoeudAmont="211"
+           IdentNoeudAval="207"
+           IdentPointMesure="210"
+           TypeReseau="P"
+           Longueur="180"/>
+      <ARC Ident="211" Nom="Av. Jean-Jaur?s -&gt; Place de l'Etoile" IdentNoeudAmont="681"
+           IdentNoeudAval="212"
+           IdentPointMesure="211"
+           TypeReseau="P"
+           Longueur="480"/>
+      <ARC Ident="212" Nom="Av. Jean-Jaur?s -&gt; Neudorf" IdentNoeudAmont="212"
+           IdentNoeudAval="681"
+           IdentPointMesure="212"
+           TypeReseau="P"
+           Longueur="480"/>
+      <ARC Ident="213" Nom="Sortie Tunnel -&gt; Allemagne" IdentNoeudAmont="9900"
+           IdentNoeudAval="230"
+           IdentPointMesure="213"
+           TypeReseau="P"
+           Longueur="300"/>
+      <ARC Ident="214" Nom="Rte du Rhin (UGC)-&gt;Ville" IdentNoeudAmont="233"
+           IdentNoeudAval="232"
+           IdentPointMesure="214"
+           TypeReseau="P"
+           Longueur="320"/>
+      <ARC Ident="215" Nom="Sortie Rte du Rhin -&gt; Pl.Etoile" IdentNoeudAmont="9903"
+           IdentNoeudAval="211"
+           IdentPointMesure="215"
+           TypeReseau="P"
+           Longueur="200"/>
+      <ARC Ident="216" Nom="Pl.Etoile -&gt; Rte du Rhin" IdentNoeudAmont="213"
+           IdentNoeudAval="9903"
+           IdentPointMesure="216"
+           TypeReseau="P"
+           Longueur="170"/>
+      <ARC Ident="217" Nom="Rte du Rhin (UGC)-&gt;Allemagne" IdentNoeudAmont="231"
+           IdentNoeudAval="232"
+           IdentPointMesure="217"
+           TypeReseau="P"
+           Longueur="130"/>
+      <ARC Ident="220" Nom="Montee Contournement Sud (H?pital)" IdentNoeudAmont="225"
+           IdentNoeudAval="9903"
+           IdentPointMesure="220"
+           TypeReseau="P"
+           Longueur="200"/>
+      <ARC Ident="221" Nom="Pl. Etoile -&gt; Contournemend Sud" IdentNoeudAmont="208"
+           IdentNoeudAval="9903"
+           IdentPointMesure="221"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="222" Nom="Rte du Rhin-&gt;Contournement Sud" IdentNoeudAmont="230"
+           IdentNoeudAval="9903"
+           IdentPointMesure="222"
+           TypeReseau="P"
+           Longueur="300"/>
+      <ARC Ident="223" Nom="Descente Contournement Sud Rte Hopital" IdentNoeudAmont="9900"
+           IdentNoeudAval="225"
+           IdentPointMesure="223"
+           TypeReseau="P"
+           Longueur="200"/>
+      <ARC Ident="224" Nom="Descente contournement Sud Pl.Etoile" IdentNoeudAmont="9900"
+           IdentNoeudAval="208"
+           IdentPointMesure="224"
+           TypeReseau="P"
+           Longueur="250"/>
+      <ARC Ident="229" Nom="Rte du Rhin (Danube)-&gt;Churchill" IdentNoeudAmont="233"
+           IdentNoeudAval="232"
+           IdentPointMesure="229"
+           TypeReseau="P"
+           Longueur="320"/>
+      <ARC Ident="230" Nom="Rte de l'Hopital -&gt; Quai Fustel" IdentNoeudAmont="223"
+           IdentNoeudAval="221"
+           IdentPointMesure="230"
+           TypeReseau="P"
+           Longueur="140"/>
+      <ARC Ident="231" Nom="Rte de l'Hopital -&gt; H?tel de Police" IdentNoeudAmont="221"
+           IdentNoeudAval="223"
+           IdentPointMesure="231"
+           TypeReseau="P"
+           Longueur="140"/>
+      <ARC Ident="232" Nom="Rte de l'H?pital -&gt; Pont Adenauer" IdentNoeudAmont="223"
+           IdentNoeudAval="225"
+           IdentPointMesure="232"
+           TypeReseau="P"
+           Longueur="80"/>
+      <ARC Ident="233" Nom="Rte du Rhin (av.233)-&gt;Allemagne" IdentNoeudAmont="232"
+           IdentNoeudAval="233"
+           IdentPointMesure="233"
+           TypeReseau="P"
+           Longueur="320"/>
+      <ARC Ident="234" Nom="Av. Rhin (Budapest)-&gt;Pl. Etoile" IdentNoeudAmont="679"
+           IdentNoeudAval="233"
+           IdentPointMesure="234"
+           TypeReseau="P"
+           Longueur="350"/>
+      <ARC Ident="236" Nom="Av.Rhin (Bucarest) -&gt; A.Briand" IdentNoeudAmont="679"
+           IdentNoeudAval="687"
+           IdentPointMesure="236"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="237" Nom="Quai des Alpes -&gt; Place de l'Etoile" IdentNoeudAmont="7332"
+           IdentNoeudAval="234"
+           IdentPointMesure="237"
+           TypeReseau="P"
+           Longueur="200"/>
+      <ARC Ident="238" Nom="Quai des Alpes vers Robertsau" IdentNoeudAmont="234"
+           IdentNoeudAval="9903"
+           IdentPointMesure="238"
+           TypeReseau="P"
+           Longueur="200"/>
+      <ARC Ident="239" Nom="Pont du Danube -&gt; Quai des Alpes" IdentNoeudAmont="233"
+           IdentNoeudAval="234"
+           IdentPointMesure="239"
+           TypeReseau="P"
+           Longueur="250"/>
+      <ARC Ident="240" Nom="Pont du Danube-&gt;Rte du Rhin" IdentNoeudAmont="234"
+           IdentNoeudAval="233"
+           IdentPointMesure="240"
+           TypeReseau="P"
+           Longueur="250"/>
+      <ARC Ident="241" Nom="Rue E.Michelet -&gt; Quai des Alpes" IdentNoeudAmont="232"
+           IdentNoeudAval="235"
+           IdentPointMesure="241"
+           TypeReseau="P"
+           Longueur="220"/>
+      <ARC Ident="242" Nom="Rue E.Michelet -&gt; Rte du Rhin" IdentNoeudAmont="235"
+           IdentNoeudAval="232"
+           IdentPointMesure="242"
+           TypeReseau="P"
+           Longueur="220"/>
+      <ARC Ident="243" Nom="Alpes (ap.Churchill)-&gt;Etoile" IdentNoeudAmont="235"
+           IdentNoeudAval="9903"
+           IdentPointMesure="243"
+           TypeReseau="P"
+           Longueur="200"/>
+      <ARC Ident="244" Nom="Alpes(av.Churchill)-&gt;Robertsau" IdentNoeudAmont="9903"
+           IdentNoeudAval="235"
+           IdentPointMesure="244"
+           TypeReseau="P"
+           Longueur="200"/>
+      <ARC Ident="245" Nom="Alpes(av.Churchill)-&gt;Etoile" IdentNoeudAmont="234"
+           IdentNoeudAval="235"
+           IdentPointMesure="245"
+           TypeReseau="P"
+           Longueur="270"/>
+      <ARC Ident="246" Nom="Alpes (ap.Churchill) -&gt; Robertsau" IdentNoeudAmont="235"
+           IdentNoeudAval="234"
+           IdentPointMesure="246"
+           TypeReseau="P"
+           Longueur="270"/>
+      <ARC Ident="247" Nom="Rue du Landsberg vers Rte du Rhin" IdentNoeudAmont="681"
+           IdentNoeudAval="232"
+           IdentPointMesure="247"
+           TypeReseau="P"
+           Longueur="320"/>
+      <ARC Ident="248" Nom="Rue du Landsberg vers Av.Jean Jaur?s" IdentNoeudAmont="232"
+           IdentNoeudAval="681"
+           IdentPointMesure="248"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="301" Nom="Place de la Gare -&gt; Bld de Nancy" IdentNoeudAmont="311"
+           IdentNoeudAval="308"
+           IdentPointMesure="301"
+           TypeReseau="P"
+           Longueur="465"/>
+      <ARC Ident="302" Nom="Bld Wilson vers Fbg de Saverne" IdentNoeudAmont="312"
+           IdentNoeudAval="801"
+           IdentPointMesure="302"
+           TypeReseau="P"
+           Longueur="250"/>
+      <ARC Ident="303" Nom="Pont Matthis -&gt; Rue de Molsheim" IdentNoeudAmont="341"
+           IdentNoeudAval="331"
+           IdentPointMesure="303"
+           TypeReseau="P"
+           Longueur="230"/>
+      <ARC Ident="304" Nom="Pont Matthis -&gt; Rue Humann" IdentNoeudAmont="331"
+           IdentNoeudAval="341"
+           IdentPointMesure="304"
+           TypeReseau="P"
+           Longueur="230"/>
+      <ARC Ident="305" Nom="Plaine des Bouchers -&gt; Rue Humann" IdentNoeudAmont="771"
+           IdentNoeudAval="301"
+           IdentPointMesure="305"
+           TypeReseau="P"
+           Longueur="530"/>
+      <ARC Ident="307" Nom="Rue de Molsheim" IdentNoeudAmont="331" IdentNoeudAval="304"
+           IdentPointMesure="307"
+           TypeReseau="P"
+           Longueur="275"/>
+      <ARC Ident="308" Nom="Sortie Autoroute Rue de Saales" IdentNoeudAmont="9903"
+           IdentNoeudAval="337"
+           IdentPointMesure="308"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="309" Nom="Rte Romains (Constantin)-&gt;Ville" IdentNoeudAmont="360"
+           IdentNoeudAval="356"
+           IdentPointMesure="309"
+           TypeReseau="P"
+           Longueur="610"/>
+      <ARC Ident="310" Nom="Rue de Fouday" IdentNoeudAmont="338" IdentNoeudAval="337"
+           IdentPointMesure="310"
+           TypeReseau="P"
+           Longueur="220"/>
+      <ARC Ident="311" Nom="Rue de Koenigshoffen-&gt;Charmille" IdentNoeudAmont="308"
+           IdentNoeudAval="351"
+           IdentPointMesure="352"
+           TypeReseau="P"
+           Longueur="570"/>
+      <ARC Ident="312" Nom="Rte des Romains-&gt;Rue de Koenigshoffen" IdentNoeudAmont="351"
+           IdentNoeudAval="308"
+           IdentPointMesure="312"
+           TypeReseau="P"
+           Longueur="520"/>
+      <ARC Ident="313" Nom="Rue d'Obernai" IdentNoeudAmont="307" IdentNoeudAval="331"
+           IdentPointMesure="313"
+           TypeReseau="P"
+           Longueur="190"/>
+      <ARC Ident="314" Nom="Rue de Wasselonne" IdentNoeudAmont="332" IdentNoeudAval="308"
+           IdentPointMesure="314"
+           TypeReseau="P"
+           Longueur="270"/>
+      <ARC Ident="315" Nom="Bld de Lyon -&gt; Rue d'Obernai" IdentNoeudAmont="304"
+           IdentNoeudAval="307"
+           IdentPointMesure="315"
+           TypeReseau="P"
+           Longueur="230"/>
+      <ARC Ident="317" Nom="Bld de Lyon (Saales) -&gt; Rue de Molsheim" IdentNoeudAmont="302"
+           IdentNoeudAval="304"
+           IdentPointMesure="317"
+           TypeReseau="P"
+           Longueur="194"/>
+      <ARC Ident="318" Nom="Rte des Romains vers Place Blanche" IdentNoeudAmont="353"
+           IdentNoeudAval="351"
+           IdentPointMesure="318"
+           TypeReseau="P"
+           Longueur="540"/>
+      <ARC Ident="319" Nom="Rte des Romains vers Eckbolsheim" IdentNoeudAmont="351"
+           IdentNoeudAval="353"
+           IdentPointMesure="319"
+           TypeReseau="P"
+           Longueur="540"/>
+      <ARC Ident="320" Nom="Bld Lyon (Obernai) -&gt; Rue de Molsheim" IdentNoeudAmont="307"
+           IdentNoeudAval="304"
+           IdentPointMesure="320"
+           TypeReseau="P"
+           Longueur="268"/>
+      <ARC Ident="321" Nom="E.Rostand-&gt; A351" IdentNoeudAmont="9903" IdentNoeudAval="387"
+           IdentPointMesure="321"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="322" Nom="E.Rostand-&gt;av.Corneille" IdentNoeudAmont="387"
+           IdentNoeudAval="9903"
+           IdentPointMesure="322"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="323" Nom="Romains (Constantin)-&gt;Eckbolsheim" IdentNoeudAmont="356"
+           IdentNoeudAval="360"
+           IdentPointMesure="323"
+           TypeReseau="P"
+           Longueur="610"/>
+      <ARC Ident="328" Nom="Sortie A 351" IdentNoeudAmont="9903" IdentNoeudAval="387"
+           IdentPointMesure="328"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="329" Nom="Rue du Rempart-&gt;Koenigshoffen" IdentNoeudAmont="800"
+           IdentNoeudAval="306"
+           IdentPointMesure="329"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="330" Nom="Rue du Rempart -&gt; Cronenbourg" IdentNoeudAmont="306"
+           IdentNoeudAval="800"
+           IdentPointMesure="330"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="351" Nom="rue de koenigshoffen-&gt;Autoroute" IdentNoeudAmont="306"
+           IdentNoeudAval="9903"
+           IdentPointMesure="351"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="353" Nom="sortie autoroute rue de koenigshoffen" IdentNoeudAmont="9903"
+           IdentNoeudAval="305"
+           IdentPointMesure="353"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="401" Nom="Av.des Voges vers Av. For?t-Noire" IdentNoeudAmont="401"
+           IdentNoeudAval="408"
+           IdentPointMesure="401"
+           TypeReseau="P"
+           Longueur="580"/>
+      <ARC Ident="402" Nom="Av. des Vosges vers Place de Haguenau" IdentNoeudAmont="408"
+           IdentNoeudAval="401"
+           IdentPointMesure="402"
+           TypeReseau="P"
+           Longueur="580"/>
+      <ARC Ident="403" Nom="Av. de la Paix vers Av. des Vosges" IdentNoeudAmont="452"
+           IdentNoeudAval="410"
+           IdentPointMesure="403"
+           TypeReseau="P"
+           Longueur="415"/>
+      <ARC Ident="404" Nom="Av.de la Paix vers Place de Bordeaux" IdentNoeudAmont="410"
+           IdentNoeudAval="452"
+           IdentPointMesure="404"
+           TypeReseau="P"
+           Longueur="415"/>
+      <ARC Ident="405" Nom="Av.d'Alsace vers Av. des Vosges" IdentNoeudAmont="416"
+           IdentNoeudAval="410"
+           IdentPointMesure="405"
+           TypeReseau="P"
+           Longueur="620"/>
+      <ARC Ident="406" Nom="Av. d'Alsace vers Place Brant" IdentNoeudAmont="410"
+           IdentNoeudAval="416"
+           IdentPointMesure="406"
+           TypeReseau="P"
+           Longueur="620"/>
+      <ARC Ident="409" Nom="Bld Clemenceau vers Av. des Vosges" IdentNoeudAmont="451"
+           IdentNoeudAval="406"
+           IdentPointMesure="409"
+           TypeReseau="P"
+           Longueur="640"/>
+      <ARC Ident="410" Nom="Bld Cl?menceau vers Av. de la Paix" IdentNoeudAmont="406"
+           IdentNoeudAval="451"
+           IdentPointMesure="410"
+           TypeReseau="P"
+           Longueur="640"/>
+      <ARC Ident="411" Nom="Av. Herrenschmidt vers Place de Bordeau"
+           IdentNoeudAmont="1202"
+           IdentNoeudAval="456"
+           IdentPointMesure="411"
+           TypeReseau="P"
+           Longueur="620"/>
+      <ARC Ident="412" Nom="Av. Herrenschmidt vers A350" IdentNoeudAmont="456"
+           IdentNoeudAval="1202"
+           IdentPointMesure="412"
+           TypeReseau="P"
+           Longueur="620"/>
+      <ARC Ident="413" Nom="Rue Ohmacht vers Place de Bordeaux" IdentNoeudAmont="501"
+           IdentNoeudAval="453"
+           IdentPointMesure="413"
+           TypeReseau="P"
+           Longueur="730"/>
+      <ARC Ident="414" Nom="Rue Ohmacht vers All?e de la Robertsau" IdentNoeudAmont="453"
+           IdentNoeudAval="501"
+           IdentPointMesure="414"
+           TypeReseau="P"
+           Longueur="730"/>
+      <ARC Ident="415" Nom="Quai des P?cheurs -&gt; Rue de Zurich" IdentNoeudAmont="434"
+           IdentNoeudAval="444"
+           IdentPointMesure="415"
+           TypeReseau="P"
+           Longueur="200"/>
+      <ARC Ident="416" Nom="Quai des P?cheurs -&gt; Pont Royal" IdentNoeudAmont="444"
+           IdentNoeudAval="434"
+           IdentPointMesure="416"
+           TypeReseau="P"
+           Longueur="200"/>
+      <ARC Ident="417" Nom="Sortie Eglise Rouge-&gt;J. Kabl?" IdentNoeudAmont="9903"
+           IdentNoeudAval="461"
+           IdentPointMesure="417"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="418" Nom="Rue de l'Eglise Rouge-&gt;J. Kabl?" IdentNoeudAmont="9903"
+           IdentNoeudAval="461"
+           IdentPointMesure="418"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="419" Nom="Rue de l'Eglise Rouge -&gt; Schiltigheim" IdentNoeudAmont="461"
+           IdentNoeudAval="9903"
+           IdentPointMesure="419"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="422" Nom="Av.de la Libert? vers Pl. Universit?" IdentNoeudAmont="440"
+           IdentNoeudAval="422"
+           IdentPointMesure="422"
+           TypeReseau="P"
+           Longueur="400"/>
+      <ARC Ident="423" Nom="Av.de la Libert? vers Pl.R?publique" IdentNoeudAmont="422"
+           IdentNoeudAval="440"
+           IdentPointMesure="423"
+           TypeReseau="P"
+           Longueur="400"/>
+      <ARC Ident="432" Nom="Av.For?t-Noire-&gt;PL.Brant" IdentNoeudAmont="523"
+           IdentNoeudAval="414"
+           IdentPointMesure="432"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="433" Nom="Av.For?t-Noire-&gt;Bld d'Anvers" IdentNoeudAmont="414"
+           IdentNoeudAval="523"
+           IdentPointMesure="433"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="501" Nom="Bld Leblois -&gt; Bld de la Victoire" IdentNoeudAmont="523"
+           IdentNoeudAval="524"
+           IdentPointMesure="501"
+           TypeReseau="P"
+           Longueur="235"/>
+      <ARC Ident="502" Nom="Bld Leblois -&gt; Bld de la Marne" IdentNoeudAmont="524"
+           IdentNoeudAval="523"
+           IdentPointMesure="502"
+           TypeReseau="P"
+           Longueur="235"/>
+      <ARC Ident="503" Nom="Pont d'Anvers -&gt; Place de Kehl" IdentNoeudAmont="535"
+           IdentNoeudAval="534"
+           IdentPointMesure="503"
+           TypeReseau="P"
+           Longueur="380"/>
+      <ARC Ident="504" Nom="Pont d'Anvers -&gt; Allemagne" IdentNoeudAmont="534"
+           IdentNoeudAval="535"
+           IdentPointMesure="504"
+           TypeReseau="P"
+           Longueur="380"/>
+      <ARC Ident="505" Nom="J.P.Levy-&gt;Esplanade" IdentNoeudAmont="235"
+           IdentNoeudAval="527"
+           IdentPointMesure="505"
+           TypeReseau="P"
+           Longueur="260"/>
+      <ARC Ident="506" Nom="J.P.Levy -&gt; Alpes" IdentNoeudAmont="527" IdentNoeudAval="235"
+           IdentPointMesure="506"
+           TypeReseau="P"
+           Longueur="260"/>
+      <ARC Ident="507" Nom="All?e de la Robertsau -&gt; Bld Tauler" IdentNoeudAmont="416"
+           IdentNoeudAval="501"
+           IdentPointMesure="507"
+           TypeReseau="P"
+           Longueur="440"/>
+      <ARC Ident="508" Nom="All?e de la Robertsau -&gt; Place Brant" IdentNoeudAmont="501"
+           IdentNoeudAval="416"
+           IdentPointMesure="508"
+           TypeReseau="P"
+           Longueur="440"/>
+      <ARC Ident="509" Nom="Rue de Rome -&gt; Krutenau" IdentNoeudAmont="527"
+           IdentNoeudAval="220"
+           IdentPointMesure="509"
+           TypeReseau="P"
+           Longueur="560"/>
+      <ARC Ident="510" Nom="Rue de Rome -&gt; Esplanade" IdentNoeudAmont="220"
+           IdentNoeudAval="527"
+           IdentPointMesure="510"
+           TypeReseau="P"
+           Longueur="560"/>
+      <ARC Ident="511" Nom="Bld Victoire (E.Labb?)-&gt;Pont Royal" IdentNoeudAmont="524"
+           IdentNoeudAval="434"
+           IdentPointMesure="511"
+           TypeReseau="P"
+           Longueur="820"/>
+      <ARC Ident="512" Nom="Bld Victoire -&gt;Esplanade" IdentNoeudAmont="434"
+           IdentNoeudAval="524"
+           IdentPointMesure="512"
+           TypeReseau="P"
+           Longueur="820"/>
+      <ARC Ident="515" Nom="Rue J.W. Valentin (CIAL)-&gt;Pl.A.Zeller" IdentNoeudAmont="1204"
+           IdentNoeudAval="509"
+           IdentPointMesure="515"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="516" Nom="Rue J.Wenger-Valentin vers Schiltigheim" IdentNoeudAmont="509"
+           IdentNoeudAval="104"
+           IdentPointMesure="516"
+           TypeReseau="P"
+           Longueur="430"/>
+      <ARC Ident="517" Nom="Bld Anvers (532)-&gt;Bld de la Marne" IdentNoeudAmont="532"
+           IdentNoeudAval="522"
+           IdentPointMesure="517"
+           TypeReseau="P"
+           Longueur="390"/>
+      <ARC Ident="518" Nom="Bld d'Anvers (532)-&gt;Pont d'Anvers" IdentNoeudAmont="522"
+           IdentNoeudAval="532"
+           IdentPointMesure="518"
+           TypeReseau="P"
+           Longueur="390"/>
+      <ARC Ident="519" Nom="Rue de Lubeck-&gt;Pl. Henri Levy" IdentNoeudAmont="537"
+           IdentNoeudAval="538"
+           IdentPointMesure="519"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="520" Nom="Rue de Lubeck-&gt;Rue du Port du Rhin" IdentNoeudAmont="538"
+           IdentNoeudAval="537"
+           IdentPointMesure="520"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="521" Nom="Rue Boecklin -&gt; Centre Ville" IdentNoeudAmont="1282"
+           IdentNoeudAval="581"
+           IdentPointMesure="521"
+           TypeReseau="P"
+           Longueur="660"/>
+      <ARC Ident="522" Nom="Rue Boecklin-&gt;Rte de La Wantzenau" IdentNoeudAmont="581"
+           IdentNoeudAval="1282"
+           IdentPointMesure="522"
+           TypeReseau="P"
+           Longueur="660"/>
+      <ARC Ident="523" Nom="Av.Gal de Gaulle -&gt; Bld de la Victoire" IdentNoeudAmont="527"
+           IdentNoeudAval="524"
+           IdentPointMesure="523"
+           TypeReseau="P"
+           Longueur="440"/>
+      <ARC Ident="524" Nom="Av. du Gal de Gaulle -&gt; Esplanade" IdentNoeudAmont="524"
+           IdentNoeudAval="527"
+           IdentPointMesure="524"
+           TypeReseau="P"
+           Longueur="440"/>
+      <ARC Ident="525" Nom="Av.Schutzenberger vers Pl. Bordeaux" IdentNoeudAmont="510"
+           IdentNoeudAval="456"
+           IdentPointMesure="525"
+           TypeReseau="P"
+           Longueur="360"/>
+      <ARC Ident="526" Nom="Av.Schutzenberger vers Pl. A.Zeller" IdentNoeudAmont="456"
+           IdentNoeudAval="510"
+           IdentPointMesure="526"
+           TypeReseau="P"
+           Longueur="360"/>
+      <ARC Ident="527" Nom="Bld Pierre Pflimlin -&gt; Wacken" IdentNoeudAmont="517"
+           IdentNoeudAval="508"
+           IdentPointMesure="527"
+           TypeReseau="P"
+           Longueur="520"/>
+      <ARC Ident="528" Nom="Bld Pierre Pflimlin -&gt; Robertsau" IdentNoeudAmont="508"
+           IdentNoeudAval="517"
+           IdentPointMesure="528"
+           TypeReseau="P"
+           Longueur="520"/>
+      <ARC Ident="529" Nom="All?e Droits de l'Homme-&gt;Orangerie" IdentNoeudAmont="506"
+           IdentNoeudAval="505"
+           IdentPointMesure="529"
+           TypeReseau="P"
+           Longueur="180"/>
+      <ARC Ident="530" Nom="All?e Droits de l'Homme-&gt;Robertsau" IdentNoeudAmont="505"
+           IdentNoeudAval="506"
+           IdentPointMesure="530"
+           TypeReseau="P"
+           Longueur="180"/>
+      <ARC Ident="531" Nom="Rue Edmond Labb? -&gt; Bld de la Victoire" IdentNoeudAmont="9903"
+           IdentNoeudAval="531"
+           IdentPointMesure="531"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="532" Nom="Rue Edmond Labb?-&gt;Rue P.Montet" IdentNoeudAmont="531"
+           IdentNoeudAval="9903"
+           IdentPointMesure="532"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="533" Nom="Kastner -&gt; Boecklin" IdentNoeudAmont="582"
+           IdentNoeudAval="506"
+           IdentPointMesure="533"
+           TypeReseau="P"
+           Longueur="220"/>
+      <ARC Ident="534" Nom="Kastner -&gt; Jacoutot" IdentNoeudAmont="506"
+           IdentNoeudAval="582"
+           IdentPointMesure="534"
+           TypeReseau="P"
+           Longueur="220"/>
+      <ARC Ident="535" Nom="Bld de Dresde vers Pl.A.Zeller" IdentNoeudAmont="507"
+           IdentNoeudAval="509"
+           IdentPointMesure="535"
+           TypeReseau="P"
+           Longueur="450"/>
+      <ARC Ident="536" Nom="Bld de Dresde vers Robertsau" IdentNoeudAmont="509"
+           IdentNoeudAval="507"
+           IdentPointMesure="536"
+           TypeReseau="P"
+           Longueur="450"/>
+      <ARC Ident="539" Nom="Rue Vauban vers Bld de la Victoire" IdentNoeudAmont="533"
+           IdentNoeudAval="524"
+           IdentPointMesure="539"
+           TypeReseau="P"
+           Longueur="510"/>
+      <ARC Ident="540" Nom="Rue Vauban vers Place de Kehl" IdentNoeudAmont="524"
+           IdentNoeudAval="533"
+           IdentPointMesure="540"
+           TypeReseau="P"
+           Longueur="510"/>
+      <ARC Ident="601" Nom="Route du Polygone -&gt; Neudorf" IdentNoeudAmont="601"
+           IdentNoeudAval="603"
+           IdentPointMesure="601"
+           TypeReseau="P"
+           Longueur="365"/>
+      <ARC Ident="602" Nom="Route du Polygone -&gt; Pl. de l'Etoile" IdentNoeudAmont="603"
+           IdentNoeudAval="601"
+           IdentPointMesure="602"
+           TypeReseau="P"
+           Longueur="365"/>
+      <ARC Ident="603" Nom="Av. du Neuhof vers rte du Polygone" IdentNoeudAmont="613"
+           IdentNoeudAval="612"
+           IdentPointMesure="603"
+           TypeReseau="P"
+           Longueur="335"/>
+      <ARC Ident="604" Nom="Av. du Neuhof vers Stockfeld" IdentNoeudAmont="612"
+           IdentNoeudAval="613"
+           IdentPointMesure="604"
+           TypeReseau="P"
+           Longueur="335"/>
+      <ARC Ident="608" Nom="Pont Vauban -&gt; Allemagne" IdentNoeudAmont="688"
+           IdentNoeudAval="689"
+           IdentPointMesure="608"
+           TypeReseau="P"
+           Longueur="325"/>
+      <ARC Ident="609" Nom="Pont Vauban -&gt; Centre ville" IdentNoeudAmont="689"
+           IdentNoeudAval="688"
+           IdentPointMesure="609"
+           TypeReseau="P"
+           Longueur="325"/>
+      <ARC Ident="610" Nom="Rue du Rhin Tortu vers Gal Offenstein" IdentNoeudAmont="650"
+           IdentNoeudAval="742"
+           IdentPointMesure="610"
+           TypeReseau="P"
+           Longueur="870"/>
+      <ARC Ident="611" Nom="Rue du Rhin Tortu vers Neuhof" IdentNoeudAmont="742"
+           IdentNoeudAval="650"
+           IdentPointMesure="611"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="616" Nom="Av.Jean Jaures-&gt;Av.A.Briand" IdentNoeudAmont="681"
+           IdentNoeudAval="684"
+           IdentPointMesure="616"
+           TypeReseau="P"
+           Longueur="750"/>
+      <ARC Ident="617" Nom="Av.Jean Jaur?s vers Rue du Landsberg" IdentNoeudAmont="684"
+           IdentNoeudAval="681"
+           IdentPointMesure="617"
+           TypeReseau="P"
+           Longueur="750"/>
+      <ARC Ident="618" Nom="Av.A.Briand -&gt; Rte du Rhin" IdentNoeudAmont="684"
+           IdentNoeudAval="686"
+           IdentPointMesure="618"
+           TypeReseau="P"
+           Longueur="210"/>
+      <ARC Ident="619" Nom="Av.A.Briand -&gt; Av. Jean Jaur?s" IdentNoeudAmont="686"
+           IdentNoeudAval="684"
+           IdentPointMesure="619"
+           TypeReseau="P"
+           Longueur="210"/>
+      <ARC Ident="620" Nom="Rue de Ribeauvill? vers rue d'Orbey" IdentNoeudAmont="606"
+           IdentNoeudAval="685"
+           IdentPointMesure="620"
+           TypeReseau="P"
+           Longueur="800"/>
+      <ARC Ident="621" Nom="Ribeauville (Orbey) -&gt; Bale" IdentNoeudAmont="685"
+           IdentNoeudAval="606"
+           IdentPointMesure="621"
+           TypeReseau="P"
+           Longueur="800"/>
+      <ARC Ident="624" Nom="Paul Dopf -&gt; Orbey" IdentNoeudAmont="610" IdentNoeudAval="626"
+           IdentPointMesure="624"
+           TypeReseau="P"
+           Longueur="1010"/>
+      <ARC Ident="625" Nom="Paul Dopf -&gt; Canonniers" IdentNoeudAmont="626"
+           IdentNoeudAval="610"
+           IdentPointMesure="625"
+           TypeReseau="P"
+           Longueur="1010"/>
+      <ARC Ident="626" Nom="Abbe de l'Epee-&gt;Rte du Neuhof" IdentNoeudAmont="650"
+           IdentNoeudAval="661"
+           IdentPointMesure="626"
+           TypeReseau="P"
+           Longueur="520"/>
+      <ARC Ident="627" Nom="Abbe de l'Epee -&gt; Rhin Tortu" IdentNoeudAmont="661"
+           IdentNoeudAval="650"
+           IdentPointMesure="627"
+           TypeReseau="P"
+           Longueur="520"/>
+      <ARC Ident="628" Nom="Rte d'Altenheim vers Stockfeld" IdentNoeudAmont="613"
+           IdentNoeudAval="631"
+           IdentPointMesure="628"
+           TypeReseau="P"
+           Longueur="1000"/>
+      <ARC Ident="629" Nom="Rte d'Altenheim vers Av. du Neuhof" IdentNoeudAmont="631"
+           IdentNoeudAval="613"
+           IdentPointMesure="629"
+           TypeReseau="P"
+           Longueur="1000"/>
+      <ARC Ident="630" Nom="All?e J.Auriol-&gt; Mermoz" IdentNoeudAmont="661"
+           IdentNoeudAval="664"
+           IdentPointMesure="630"
+           TypeReseau="P"
+           Longueur="350"/>
+      <ARC Ident="631" Nom="All?e J.Auriol-&gt;Av.Neuhof" IdentNoeudAmont="664"
+           IdentNoeudAval="661"
+           IdentPointMesure="631"
+           TypeReseau="P"
+           Longueur="350"/>
+      <ARC Ident="632" Nom="Av.Pont de l'Europe -&gt;Allemagne" IdentNoeudAmont="696"
+           IdentNoeudAval="697"
+           IdentPointMesure="632"
+           TypeReseau="P"
+           Longueur="200"/>
+      <ARC Ident="633" Nom="Av.Pont de l'Europe -&gt; Rte du Rhin" IdentNoeudAmont="697"
+           IdentNoeudAval="696"
+           IdentPointMesure="633"
+           TypeReseau="P"
+           Longueur="200"/>
+      <ARC Ident="634" Nom="Pont de l'Europe -&gt; Allemagne" IdentNoeudAmont="697"
+           IdentNoeudAval="9903"
+           IdentPointMesure="634"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="635" Nom="Pont de l'Europe -&gt; Rte du Rhin" IdentNoeudAmont="9903"
+           IdentNoeudAval="697"
+           IdentPointMesure="635"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="636" Nom="Barreau L.I.P.-&gt;Allemagne" IdentNoeudAmont="9903"
+           IdentNoeudAval="697"
+           IdentPointMesure="636"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="637" Nom="Barreau L.I.P.-&gt; Rhin Napol?on" IdentNoeudAmont="697"
+           IdentNoeudAval="9901"
+           IdentPointMesure="637"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="638" Nom="Rhin Napol?on-&gt;Rte du Rhin" IdentNoeudAmont="9901"
+           IdentNoeudAval="9900"
+           IdentPointMesure="638"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="639" Nom="Rhin Napol?on -&gt; Rue du Havre" IdentNoeudAmont="9331"
+           IdentNoeudAval="9900"
+           IdentPointMesure="639"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="644" Nom="Rhin Tortu-&gt;Abb? Ep?e" IdentNoeudAmont="615"
+           IdentNoeudAval="650"
+           IdentPointMesure="644"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="645" Nom="Schuhansen-&gt;Ganzau" IdentNoeudAmont="615" IdentNoeudAval="614"
+           IdentPointMesure="645"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="646" Nom="Rte Neuhof-&gt;Illkirch" IdentNoeudAmont="615"
+           IdentNoeudAval="9903"
+           IdentPointMesure="646"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="647" Nom="Rte du Neuhof-&gt;Schuhansen" IdentNoeudAmont="9903"
+           IdentNoeudAval="615"
+           IdentPointMesure="647"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="701" Nom="Av.Colmar (Racing) vers Illkirch" IdentNoeudAmont="704"
+           IdentNoeudAval="708"
+           IdentPointMesure="701"
+           TypeReseau="P"
+           Longueur="650"/>
+      <ARC Ident="702" Nom="Av. Colmar (Racing) vers Centre Ville" IdentNoeudAmont="708"
+           IdentNoeudAval="704"
+           IdentPointMesure="702"
+           TypeReseau="P"
+           Longueur="650"/>
+      <ARC Ident="703" Nom="Av. Colmar (Mulhouse) vers Centre ville" IdentNoeudAmont="703"
+           IdentNoeudAval="700"
+           IdentPointMesure="703"
+           TypeReseau="P"
+           Longueur="420"/>
+      <ARC Ident="704" Nom="Rue du Gal Offenstein -&gt; Pfister" IdentNoeudAmont="708"
+           IdentNoeudAval="741"
+           IdentPointMesure="704"
+           TypeReseau="P"
+           Longueur="480"/>
+      <ARC Ident="705" Nom="Rte de Strasbourg vers Meinau" IdentNoeudAmont="717"
+           IdentNoeudAval="714"
+           IdentPointMesure="705"
+           TypeReseau="P"
+           Longueur="360"/>
+      <ARC Ident="706" Nom="Rte de Strasbourg vers Illkirch" IdentNoeudAmont="714"
+           IdentNoeudAval="717"
+           IdentPointMesure="706"
+           TypeReseau="P"
+           Longueur="360"/>
+      <ARC Ident="707" Nom="Sortie Autoroute Rue Montagne-Verte" IdentNoeudAmont="9903"
+           IdentNoeudAval="774"
+           IdentPointMesure="707"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="708" Nom="Plaine des Bouchers-&gt;Montagne-Verte" IdentNoeudAmont="775"
+           IdentNoeudAval="772"
+           IdentPointMesure="708"
+           TypeReseau="P"
+           Longueur="650"/>
+      <ARC Ident="709" Nom="Plaine des Bouchers-&gt;F?d?ration" IdentNoeudAmont="772"
+           IdentNoeudAval="775"
+           IdentPointMesure="709"
+           TypeReseau="P"
+           Longueur="650"/>
+      <ARC Ident="710" Nom="Sortie A35 -&gt; Baggersee" IdentNoeudAmont="9903"
+           IdentNoeudAval="717"
+           IdentPointMesure="710"
+           TypeReseau="P"
+           Longueur="480"/>
+      <ARC Ident="711" Nom="Mont?e A35 Baggersee" IdentNoeudAmont="717"
+           IdentNoeudAval="9903"
+           IdentPointMesure="711"
+           TypeReseau="P"
+           Longueur="480"/>
+      <ARC Ident="712" Nom="Rue Alfred Kastler -&gt; Baggersee" IdentNoeudAmont="9903"
+           IdentNoeudAval="717"
+           IdentPointMesure="712"
+           TypeReseau="P"
+           Longueur="260"/>
+      <ARC Ident="714" Nom="Rue Alfred Kastler -&gt; Illkirch" IdentNoeudAmont="717"
+           IdentNoeudAval="9902"
+           IdentPointMesure="714"
+           TypeReseau="P"
+           Longueur="260"/>
+      <ARC Ident="716" Nom="Rue du Doubs -&gt; Fr?res Eberts" IdentNoeudAmont="771"
+           IdentNoeudAval="9900"
+           IdentPointMesure="716"
+           TypeReseau="P"
+           Longueur="200"/>
+      <ARC Ident="717" Nom="Rue du Doubs -&gt; Plaine des Bouchers" IdentNoeudAmont="9900"
+           IdentNoeudAval="771"
+           IdentPointMesure="717"
+           TypeReseau="P"
+           Longueur="200"/>
+      <ARC Ident="718" Nom="Gal Offenstein(Pfister)-&gt;Rhin Tortu" IdentNoeudAmont="741"
+           IdentNoeudAval="742"
+           IdentPointMesure="718"
+           TypeReseau="P"
+           Longueur="300"/>
+      <ARC Ident="719" Nom="Rue du Gal Offenstein vers Av.Colmar" IdentNoeudAmont="742"
+           IdentNoeudAval="708"
+           IdentPointMesure="719"
+           TypeReseau="P"
+           Longueur="780"/>
+      <ARC Ident="720" Nom="Federation-&gt;Pl.Bouchers" IdentNoeudAmont="705"
+           IdentNoeudAval="9903"
+           IdentPointMesure="720"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="721" Nom="Federation-&gt;Colmar" IdentNoeudAmont="9903"
+           IdentNoeudAval="705"
+           IdentPointMesure="721"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="726" Nom="PL.Bouchers (POM)-&gt;775" IdentNoeudAmont="9903"
+           IdentNoeudAval="775"
+           IdentPointMesure="726"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="727" Nom="Pl.Bouchers-&gt;F.Eberts" IdentNoeudAmont="775"
+           IdentNoeudAval="9903"
+           IdentPointMesure="727"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="801" Nom="Rte d'Oberhausbergen vers Centre Ville" IdentNoeudAmont="806"
+           IdentNoeudAval="803"
+           IdentPointMesure="801"
+           TypeReseau="P"
+           Longueur="520"/>
+      <ARC Ident="802" Nom="Rte d'Oberhausbergen vers Oberhausberge" IdentNoeudAmont="803"
+           IdentNoeudAval="806"
+           IdentPointMesure="802"
+           TypeReseau="P"
+           Longueur="520"/>
+      <ARC Ident="803" Nom="Rte Mittelhausbergen (Jacob)-&gt;Rotonde" IdentNoeudAmont="811"
+           IdentNoeudAval="835"
+           IdentPointMesure="803"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="804" Nom="Rte Mittelhausbergen (Rotonde)-&gt;Jacob" IdentNoeudAmont="835"
+           IdentNoeudAval="811"
+           IdentPointMesure="804"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="805" Nom="Rte d'Oberhausbergen vers Rotonde" IdentNoeudAmont="852"
+           IdentNoeudAval="802"
+           IdentPointMesure="805"
+           TypeReseau="P"
+           Longueur="490"/>
+      <ARC Ident="806" Nom="Petite Rue des Magasins" IdentNoeudAmont="880"
+           IdentNoeudAval="881"
+           IdentPointMesure="806"
+           TypeReseau="P"
+           Longueur="110"/>
+      <ARC Ident="807" Nom="Avenue Moli?re -&gt; Rue Paul Val?ry" IdentNoeudAmont="854"
+           IdentNoeudAval="9900"
+           IdentPointMesure="807"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="808" Nom="Rte de Mittelhausbergen versStrasbourg" IdentNoeudAmont="823"
+           IdentNoeudAval="814"
+           IdentPointMesure="808"
+           TypeReseau="P"
+           Longueur="530"/>
+      <ARC Ident="809" Nom="Rte de Mittelhausbergen vers Mittel." IdentNoeudAmont="814"
+           IdentNoeudAval="823"
+           IdentPointMesure="809"
+           TypeReseau="P"
+           Longueur="530"/>
+      <ARC Ident="810" Nom="Descente Autoroute Place de Haguenau" IdentNoeudAmont="9902"
+           IdentNoeudAval="962"
+           IdentPointMesure="810"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="811" Nom="Pl.Haguenau (Brumath)-&gt;Sortie Autoroute" IdentNoeudAmont="961"
+           IdentNoeudAval="962"
+           IdentPointMesure="811"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="812" Nom="Sortie A35-&gt;G.Wodli" IdentNoeudAmont="9903"
+           IdentNoeudAval="800"
+           IdentPointMesure="812"
+           TypeReseau="P"
+           Longueur="130"/>
+      <ARC Ident="813" Nom="RP Cronenbourg-&gt;G.Wodli" IdentNoeudAmont="832"
+           IdentNoeudAval="800"
+           IdentPointMesure="813"
+           TypeReseau="P"
+           Longueur="190"/>
+      <ARC Ident="814" Nom="G.Wodli-&gt;Cronenbourg" IdentNoeudAmont="800"
+           IdentNoeudAval="833"
+           IdentPointMesure="814"
+           TypeReseau="P"
+           Longueur="200"/>
+      <ARC Ident="817" Nom="Bld Wilson -&gt; Place de la Gare" IdentNoeudAmont="801"
+           IdentNoeudAval="312"
+           IdentPointMesure="817"
+           TypeReseau="P"
+           Longueur="250"/>
+      <ARC Ident="901" Nom="Rue du Gal de Gaulle vers Bischheim" IdentNoeudAmont="903"
+           IdentNoeudAval="902"
+           IdentPointMesure="901"
+           TypeReseau="P"
+           Longueur="770"/>
+      <ARC Ident="902" Nom="Rue du Gal de Gaulle vers Strasbourg" IdentNoeudAmont="902"
+           IdentNoeudAval="903"
+           IdentPointMesure="902"
+           TypeReseau="P"
+           Longueur="770"/>
+      <ARC Ident="903" Nom="Rte de Brumath vers Schiltigheim" IdentNoeudAmont="911"
+           IdentNoeudAval="906"
+           IdentPointMesure="903"
+           TypeReseau="P"
+           Longueur="730"/>
+      <ARC Ident="904" Nom="Rte de Brumath vers souffelweyersheim" IdentNoeudAmont="906"
+           IdentNoeudAval="911"
+           IdentPointMesure="904"
+           TypeReseau="P"
+           Longueur="730"/>
+      <ARC Ident="905" Nom="Rte de Hausbergen(Becquerel)-&gt;Charme" IdentNoeudAmont="915"
+           IdentNoeudAval="910"
+           IdentPointMesure="905"
+           TypeReseau="P"
+           Longueur="870"/>
+      <ARC Ident="906" Nom="Rte de Hausbergen(Charme)-&gt;Becquerel" IdentNoeudAmont="910"
+           IdentNoeudAval="915"
+           IdentPointMesure="906"
+           TypeReseau="P"
+           Longueur="870"/>
+      <ARC Ident="909" Nom="Rte Brumath (Mundolsheim)-&gt;Industrie" IdentNoeudAmont="9903"
+           IdentNoeudAval="921"
+           IdentPointMesure="909"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="910" Nom="Rte Brumath (Industrie)-&gt;Vendenheim" IdentNoeudAmont="921"
+           IdentNoeudAval="9900"
+           IdentPointMesure="910"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="911" Nom="Rte Hausbergen -&gt; Becquerel" IdentNoeudAmont="9900"
+           IdentNoeudAval="915"
+           IdentPointMesure="911"
+           TypeReseau="P"
+           Longueur="450"/>
+      <ARC Ident="912" Nom="Rte de Hausbergen (Becquerel)-&gt;Mittel" IdentNoeudAmont="915"
+           IdentNoeudAval="9900"
+           IdentPointMesure="912"
+           TypeReseau="P"
+           Longueur="450"/>
+      <ARC Ident="913" Nom="Rue de Copenhague-&gt;Hausbergen" IdentNoeudAmont="5101"
+           IdentNoeudAval="915"
+           IdentPointMesure="913"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="914" Nom="Rue de Copenhague -&gt; E.E.E." IdentNoeudAmont="9902"
+           IdentNoeudAval="915"
+           IdentPointMesure="914"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="1001" Nom="Rte de Lyon (Baumann)-&gt;Industrie" IdentNoeudAmont="1023"
+           IdentNoeudAval="1053"
+           IdentPointMesure="1001"
+           TypeReseau="P"
+           Longueur="360"/>
+      <ARC Ident="1002" Nom="Rte de Lyon (Industrie)-&gt;Baumann" IdentNoeudAmont="1053"
+           IdentNoeudAval="1023"
+           IdentPointMesure="1002"
+           TypeReseau="P"
+           Longueur="360"/>
+      <ARC Ident="1003" Nom="Rte de Lyon (Mairie) -&gt; Strasbourg" IdentNoeudAmont="1031"
+           IdentNoeudAval="1033"
+           IdentPointMesure="1003"
+           TypeReseau="P"
+           Longueur="320"/>
+      <ARC Ident="1004" Nom="Rte de Lyon (Mairie)-&gt;Pont du P?age" IdentNoeudAmont="1033"
+           IdentNoeudAval="1031"
+           IdentPointMesure="1004"
+           TypeReseau="P"
+           Longueur="320"/>
+      <ARC Ident="1005" Nom="23 Novembre -&gt; Rte de Lyon" IdentNoeudAmont="1045"
+           IdentNoeudAval="1027"
+           IdentPointMesure="1005"
+           TypeReseau="P"
+           Longueur="460"/>
+      <ARC Ident="1006" Nom="Rue du 23 Novembre -&gt; Ostwald" IdentNoeudAmont="1027"
+           IdentNoeudAval="1045"
+           IdentPointMesure="1006"
+           TypeReseau="P"
+           Longueur="460"/>
+      <ARC Ident="1007" Nom="Rte du Neuhof-&gt;Rte de Strasbourg" IdentNoeudAmont="9051"
+           IdentNoeudAval="1051"
+           IdentPointMesure="1007"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="1008" Nom="Rte du Neuhof -&gt; Neuhof" IdentNoeudAmont="1051"
+           IdentNoeudAval="9900"
+           IdentPointMesure="1008"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="1009" Nom="Rte de Strasbourg-&gt;Baggersee" IdentNoeudAmont="1051"
+           IdentNoeudAval="717"
+           IdentPointMesure="1009"
+           TypeReseau="P"
+           Longueur="430"/>
+      <ARC Ident="1010" Nom="Rte de Strasbourg -&gt; Colonne" IdentNoeudAmont="717"
+           IdentNoeudAval="1051"
+           IdentPointMesure="1010"
+           TypeReseau="P"
+           Longueur="430"/>
+      <ARC Ident="1011" Nom="Rue de l'Industrie-&gt;Rte de Lyon" IdentNoeudAmont="9903"
+           IdentNoeudAval="1053"
+           IdentPointMesure="1011"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="1012" Nom="Rue de l'Industrie -&gt; Lixenbuhl" IdentNoeudAmont="1053"
+           IdentNoeudAval="9903"
+           IdentPointMesure="1012"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="1013" Nom="Rue de l'Industrie(Rhin)-&gt;Travail" IdentNoeudAmont="1060"
+           IdentNoeudAval="9903"
+           IdentPointMesure="1013"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="1014" Nom="Rue de l'Industrie (Travail)-&gt; Rhin" IdentNoeudAmont="9903"
+           IdentNoeudAval="1060"
+           IdentPointMesure="1014"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="1015" Nom="Pont Lixenbuhl-&gt;Rhin" IdentNoeudAmont="1061"
+           IdentNoeudAval="1060"
+           IdentPointMesure="1015"
+           TypeReseau="P"
+           Longueur="390"/>
+      <ARC Ident="1016" Nom="Pont Lixenbuhl-&gt;Rue d'Alsace" IdentNoeudAmont="1060"
+           IdentNoeudAval="1061"
+           IdentPointMesure="1016"
+           TypeReseau="P"
+           Longueur="390"/>
+      <ARC Ident="1017" Nom="Rue Lixenbuhl-&gt;Rue d'Alsace" IdentNoeudAmont="7332"
+           IdentNoeudAval="1061"
+           IdentPointMesure="1017"
+           TypeReseau="P"
+           Longueur="305"/>
+      <ARC Ident="1018" Nom="Rue Lixenbuhl -&gt;Vincent Scotto" IdentNoeudAmont="1061"
+           IdentNoeudAval="9903"
+           IdentPointMesure="1018"
+           TypeReseau="P"
+           Longueur="305"/>
+      <ARC Ident="1019" Nom="Mal Foch (Thiriet)-&gt;Ostwald" IdentNoeudAmont="1045"
+           IdentNoeudAval="9903"
+           IdentPointMesure="1019"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="1020" Nom="Mal Foch (Thiriet) -&gt; 23 Novembre" IdentNoeudAmont="9903"
+           IdentNoeudAval="1045"
+           IdentPointMesure="1020"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="1021" Nom="Rte de Lyon(Gast)-&gt;Glaciere" IdentNoeudAmont="1027"
+           IdentNoeudAval="1029"
+           IdentPointMesure="1021"
+           TypeReseau="P"
+           Longueur="225"/>
+      <ARC Ident="1022" Nom="Rte de Lyon(Gast)-&gt;23 Novembre" IdentNoeudAmont="1029"
+           IdentNoeudAval="1027"
+           IdentPointMesure="1022"
+           TypeReseau="P"
+           Longueur="220"/>
+      <ARC Ident="1023" Nom="Lyon (P?cheurs)-&gt;Strasbourg" IdentNoeudAmont="1034"
+           IdentNoeudAval="1032"
+           IdentPointMesure="1023"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="1024" Nom="Lyon (P?cheurs) -&gt; Geispolsheim" IdentNoeudAmont="1032"
+           IdentNoeudAval="1034"
+           IdentPointMesure="1024"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="1102" Nom="Rue du Mal Foch -&gt; Lingolsheim" IdentNoeudAmont="9903"
+           IdentNoeudAval="1171"
+           IdentPointMesure="1102"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="1105" Nom="Sortie Autoroute Elsau" IdentNoeudAmont="9903"
+           IdentNoeudAval="1180"
+           IdentPointMesure="1105"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="1108" Nom="Rue de la Rivi?re-&gt; Rte de Schirmeck" IdentNoeudAmont="9900"
+           IdentNoeudAval="1159"
+           IdentPointMesure="1108"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="1109" Nom="Rue du Mal Foch -&gt; Strasbourg" IdentNoeudAmont="1171"
+           IdentNoeudAval="1170"
+           IdentPointMesure="1109"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="1112" Nom="Av.Schuman -&gt; Mal Foch" IdentNoeudAmont="1177"
+           IdentNoeudAval="9900"
+           IdentPointMesure="1112"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="1113" Nom="Av.Schumann-&gt; Sports" IdentNoeudAmont="9903"
+           IdentNoeudAval="1177"
+           IdentPointMesure="1113"
+           TypeReseau="P"
+           Longueur="200"/>
+      <ARC Ident="1120" Nom="Rue de Geispolsheim -&gt; Rue des Vosges" IdentNoeudAmont="9900"
+           IdentNoeudAval="1196"
+           IdentPointMesure="1120"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="1121" Nom="Rue de Geispolsheim -&gt; Vigie" IdentNoeudAmont="9900"
+           IdentNoeudAval="9901"
+           IdentPointMesure="1121"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="1124" Nom="Rue du Mal Foch -&gt; Mairie d'Ostwald" IdentNoeudAmont="1196"
+           IdentNoeudAval="1194"
+           IdentPointMesure="1124"
+           TypeReseau="P"
+           Longueur="400"/>
+      <ARC Ident="1125" Nom="Rue du Mal Foch -&gt; Illkirch" IdentNoeudAmont="1196"
+           IdentNoeudAval="1195"
+           IdentPointMesure="1125"
+           TypeReseau="P"
+           Longueur="400"/>
+      <ARC Ident="1126" Nom="Ile des Pecheurs-&gt;Gal Leclerc" IdentNoeudAmont="1108"
+           IdentNoeudAval="1107"
+           IdentPointMesure="1126"
+           TypeReseau="P"
+           Longueur="280"/>
+      <ARC Ident="1127" Nom="Ile des Pecheurs -&gt; Rivage" IdentNoeudAmont="1107"
+           IdentNoeudAval="1108"
+           IdentPointMesure="1127"
+           TypeReseau="P"
+           Longueur="280"/>
+      <ARC Ident="1128" Nom="Rivage -&gt; Ile des Pecheurs" IdentNoeudAmont="9902"
+           IdentNoeudAval="1108"
+           IdentPointMesure="1128"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="1129" Nom="Rivage -&gt; Melezes" IdentNoeudAmont="1108"
+           IdentNoeudAval="9901"
+           IdentPointMesure="1129"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="1130" Nom="Entree Lingo" IdentNoeudAmont="9903" IdentNoeudAval="1174"
+           IdentPointMesure="1130"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="1131" Nom="Sortie Lingo -&gt; Entzheim" IdentNoeudAmont="1174"
+           IdentNoeudAval="9903"
+           IdentPointMesure="1131"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="1132" Nom="Rue de Holtzheim-&gt;Lingolsheim" IdentNoeudAmont="9900"
+           IdentNoeudAval="1174"
+           IdentPointMesure="1132"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="1133" Nom="Rue de Holtzheim-&gt;Holtzheim" IdentNoeudAmont="1174"
+           IdentNoeudAval="9900"
+           IdentPointMesure="1133"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="1134" Nom="Elmerforst (1190)-&gt;1101" IdentNoeudAmont="1190"
+           IdentNoeudAval="1101"
+           IdentPointMesure="1134"
+           TypeReseau="P"
+           Longueur="130"/>
+      <ARC Ident="1135" Nom="Elmerforst (1101)-&gt;1190" IdentNoeudAmont="1101"
+           IdentNoeudAval="1190"
+           IdentPointMesure="1135"
+           TypeReseau="P"
+           Longueur="130"/>
+      <ARC Ident="1136" Nom="Rue d'Ostwald vers Elmerforst" IdentNoeudAmont="1104"
+           IdentNoeudAval="1190"
+           IdentPointMesure="1136"
+           TypeReseau="P"
+           Longueur="420"/>
+      <ARC Ident="1137" Nom="Rue d'Ostwald vers Rue des Pr?s" IdentNoeudAmont="1190"
+           IdentNoeudAval="1104"
+           IdentPointMesure="1137"
+           TypeReseau="P"
+           Longueur="420"/>
+      <ARC Ident="1138" Nom="Rue du Gal Leclerc vers Strasbourg" IdentNoeudAmont="1107"
+           IdentNoeudAval="1191"
+           IdentPointMesure="1138"
+           TypeReseau="P"
+           Longueur="245"/>
+      <ARC Ident="1139" Nom="Rue du Gal Leclerc vers Centre Ostwald"
+           IdentNoeudAmont="1191"
+           IdentNoeudAval="1107"
+           IdentPointMesure="1139"
+           TypeReseau="P"
+           Longueur="245"/>
+      <ARC Ident="1140" Nom="Ruer de Lingolsheim-&gt;Ostwald" IdentNoeudAmont="1198"
+           IdentNoeudAval="1111"
+           IdentPointMesure="1140"
+           TypeReseau="P"
+           Longueur="570"/>
+      <ARC Ident="1141" Nom="Pont d'Ostwald -&gt; Lingolsheim" IdentNoeudAmont="1111"
+           IdentNoeudAval="1198"
+           IdentPointMesure="1141"
+           TypeReseau="P"
+           Longueur="570"/>
+      <ARC Ident="1201" Nom="Av.Mendes France-&gt;Contades" IdentNoeudAmont="1208"
+           IdentNoeudAval="1205"
+           IdentPointMesure="1201"
+           TypeReseau="P"
+           Longueur="450"/>
+      <ARC Ident="1202" Nom="Av.Mendes France (Contades)-&gt;Tribunal" IdentNoeudAmont="1205"
+           IdentNoeudAval="1208"
+           IdentPointMesure="1202"
+           TypeReseau="P"
+           Longueur="450"/>
+      <ARC Ident="1203" Nom="Sortie A351 -&gt; Herrenschmidt" IdentNoeudAmont="9900"
+           IdentNoeudAval="1202"
+           IdentPointMesure="1203"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="1204" Nom="Rte de Bischwiller (Principale)-&gt;Mairie"
+           IdentNoeudAmont="1247"
+           IdentNoeudAval="1241"
+           IdentPointMesure="1204"
+           TypeReseau="P"
+           Longueur="1050"/>
+      <ARC Ident="1205" Nom="Rte de Bischwiller (Mairie)-&gt;Bischheim"
+           IdentNoeudAmont="1241"
+           IdentNoeudAval="1247"
+           IdentPointMesure="1205"
+           TypeReseau="P"
+           Longueur="1050"/>
+      <ARC Ident="1206" Nom="Mont?e A350 Herrenschmidt" IdentNoeudAmont="1202"
+           IdentNoeudAval="9900"
+           IdentPointMesure="1206"
+           TypeReseau="P"
+           Longueur="150"/>
+      <ARC Ident="1207" Nom="Rue de l'Ill -&gt; Pont Phario" IdentNoeudAmont="1285"
+           IdentNoeudAval="1212"
+           IdentPointMesure="1207"
+           TypeReseau="P"
+           Longueur="360"/>
+      <ARC Ident="1208" Nom="Rue de l'Ill -&gt; Papeterie" IdentNoeudAmont="1212"
+           IdentNoeudAval="1285"
+           IdentPointMesure="1208"
+           TypeReseau="P"
+           Longueur="360"/>
+      <ARC Ident="1210" Nom="Rte de La Wantzenau-&gt;Rte de Bischwiller"
+           IdentNoeudAmont="1229"
+           IdentNoeudAval="1250"
+           IdentPointMesure="1210"
+           TypeReseau="P"
+           Longueur="285"/>
+      <ARC Ident="1211" Nom="Rte de La Wantzenau-&gt;Reichstett" IdentNoeudAmont="1250"
+           IdentNoeudAval="1229"
+           IdentPointMesure="1211"
+           TypeReseau="P"
+           Longueur="285"/>
+      <ARC Ident="1214" Nom="Rue du Marais -&gt;Gal de Gaulle" IdentNoeudAmont="1223"
+           IdentNoeudAval="1213"
+           IdentPointMesure="1214"
+           TypeReseau="P"
+           Longueur="400"/>
+      <ARC Ident="1215" Nom="Rue du Marais(De Gaulle)-&gt;La Wantzenau"
+           IdentNoeudAmont="1213"
+           IdentNoeudAval="1223"
+           IdentPointMesure="1215"
+           TypeReseau="P"
+           Longueur="400"/>
+      <ARC Ident="1216" Nom="Rue du Marais(De Gaulle)-&gt;Pont Phario" IdentNoeudAmont="1213"
+           IdentNoeudAval="1212"
+           IdentPointMesure="1216"
+           TypeReseau="P"
+           Longueur="435"/>
+      <ARC Ident="1217" Nom="Rue du Marais (Phario)-&gt;Gal De Gaulle" IdentNoeudAmont="1212"
+           IdentNoeudAval="1213"
+           IdentPointMesure="1217"
+           TypeReseau="P"
+           Longueur="435"/>
+      <ARC Ident="1218" Nom="Rue du Marais (Phario) -&gt; Zorn" IdentNoeudAmont="1212"
+           IdentNoeudAval="1211"
+           IdentPointMesure="1218"
+           TypeReseau="P"
+           Longueur="300"/>
+      <ARC Ident="1219" Nom="Rue du Marais (Bretagne)-&gt;Pont Phario" IdentNoeudAmont="1211"
+           IdentNoeudAval="1212"
+           IdentPointMesure="1219"
+           TypeReseau="P"
+           Longueur="300"/>
+      <ARC Ident="1220" Nom="Rue de la Robertsau -&gt;Pont Phario" IdentNoeudAmont="1232"
+           IdentNoeudAval="1212"
+           IdentPointMesure="1220"
+           TypeReseau="P"
+           Longueur="135"/>
+      <ARC Ident="1221" Nom="Rue de la Robertsau -&gt; Ch.Bock" IdentNoeudAmont="1212"
+           IdentNoeudAval="1232"
+           IdentPointMesure="1221"
+           TypeReseau="P"
+           Longueur="135"/>
+      <ARC Ident="1222" Nom="Rue de la Mairie-&gt;Rte de Bischwiller" IdentNoeudAmont="1240"
+           IdentNoeudAval="1241"
+           IdentPointMesure="1222"
+           TypeReseau="P"
+           Longueur="200"/>
+      <ARC Ident="1223" Nom="Rue de la Mairie-&gt;Rue Principale" IdentNoeudAmont="1241"
+           IdentNoeudAval="1240"
+           IdentPointMesure="1223"
+           TypeReseau="P"
+           Longueur="200"/>
+      <ARC Ident="1224" Nom="Republique-&gt;Bischheim" IdentNoeudAmont="1251"
+           IdentNoeudAval="1247"
+           IdentPointMesure="1224"
+           TypeReseau="P"
+           Longueur="1170"/>
+      <ARC Ident="1225" Nom="Republique-&gt;Souffelweyersheim" IdentNoeudAmont="1247"
+           IdentNoeudAval="1251"
+           IdentPointMesure="1225"
+           TypeReseau="P"
+           Longueur="1170"/>
+      <ARC Ident="1226" Nom="Rte Bischwiller (1241-&gt;961)" IdentNoeudAmont="1241"
+           IdentNoeudAval="960"
+           IdentPointMesure="1226"
+           TypeReseau="P"
+           Longueur="300"/>
+      <ARC Ident="1227" Nom="Rte de Bischwiller (961-&gt;1241)" IdentNoeudAmont="960"
+           IdentNoeudAval="1241"
+           IdentPointMesure="1227"
+           TypeReseau="P"
+           Longueur="300"/>
+      <ARC Ident="2000" Nom="P1C2" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2001" Nom="P1C2" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2002" Nom="P1C2" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2003" Nom="P1C2" IdentNoeudAmont="101" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2004" Nom="P1C2" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2005" Nom="P1C1" IdentNoeudAmont="102" IdentNoeudAval="106"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2006" Nom="P1C1" IdentNoeudAmont="104" IdentNoeudAval="106"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2007" Nom="P1C1" IdentNoeudAmont="102" IdentNoeudAval="104"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2008" Nom="P2C6" IdentNoeudAmont="102" IdentNoeudAval="106"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2009" Nom="P1C1" IdentNoeudAmont="101" IdentNoeudAval="104"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2012" Nom="P1C2" IdentNoeudAmont="100" IdentNoeudAval="106"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2013" Nom="P1C2" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2015" Nom="P1C3" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2016" Nom="P1C3" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2017" Nom="P1C3" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2018" Nom="P1C3" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2019" Nom="P1C3" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2020" Nom="P1C3" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2021" Nom="P1C3" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2022" Nom="P1C3" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2023" Nom="P1C4" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2024" Nom="P1C4" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2025" Nom="P1C4" IdentNoeudAmont="101" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2026" Nom="P1C4" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2027" Nom="P1C4" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2028" Nom="P1C4" IdentNoeudAmont="101" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2029" Nom="P1C4" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2030" Nom="P1C4" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2031" Nom="P1C4" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2032" Nom="P1C5" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2033" Nom="P1C5" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2034" Nom="P1C5" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2035" Nom="P1C4" IdentNoeudAmont="102" IdentNoeudAval="104"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2036" Nom="P1C4" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2037" Nom="P1C5" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2038" Nom="P1C5" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2039" Nom="P1C5" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2040" Nom="P1C5" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2041" Nom="P1C5" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2042" Nom="P1C5" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2043" Nom="P1C5" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2044" Nom="P1C6" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2045" Nom="P1C6" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2046" Nom="P1C6" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2047" Nom="P1C6" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2049" Nom="P1C6" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2050" Nom="P1C6" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2051" Nom="P1C6" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2052" Nom="P1C6" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2053" Nom="P1C6" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2054" Nom="P1C6" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2055" Nom="P1C6" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2056" Nom="P1C6" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2057" Nom="P1C7" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2058" Nom="P1C7" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2059" Nom="P1C6" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2060" Nom="P1C9" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2061" Nom="P1C9" IdentNoeudAmont="101" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2062" Nom="P1C9" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2064" Nom="P1C9" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2065" Nom="P1C9" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2066" Nom="P1C9" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2067" Nom="P1C9" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2068" Nom="P1C7" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2070" Nom="P1C7" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2071" Nom="P1C8" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2072" Nom="P1C8" IdentNoeudAmont="100" IdentNoeudAval="104"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2073" Nom="P1C7" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2074" Nom="P1C8" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2075" Nom="P1C8" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2076" Nom="P1C8" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2077" Nom="P2C1" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2078" Nom="P2C1" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2079" Nom="P2C1" IdentNoeudAmont="102" IdentNoeudAval="108"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2080" Nom="P2C1" IdentNoeudAmont="104" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2081" Nom="P2C1" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2082" Nom="P2C1" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2083" Nom="P2C1" IdentNoeudAmont="101" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2084" Nom="P2C1" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2085" Nom="P2C1" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2086" Nom="P2C1" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2087" Nom="P2C1" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2088" Nom="P2C1" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2089" Nom="P2C1" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2090" Nom="P2C1" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2091" Nom="P2C1" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2092" Nom="P2C1" IdentNoeudAmont="101" IdentNoeudAval="106"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2093" Nom="P2C10" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2094" Nom="P2C10" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2095" Nom="P2C10" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2096" Nom="P2C10" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2097" Nom="P2C10" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2098" Nom="P2C10" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2099" Nom="P2C10" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2100" Nom="P2C10" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2101" Nom="P1C1" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2102" Nom="P1C1" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2103" Nom="P2C11" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2104" Nom="P2C11" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2105" Nom="P2C11" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2106" Nom="P2C11" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2107" Nom="P2C11" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2108" Nom="P2C11" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2109" Nom="P2C11" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2110" Nom="P2C11" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2111" Nom="P2C12" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2112" Nom="P2C12" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2113" Nom="P2C12" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2114" Nom="P2C12" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2115" Nom="P2C12" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2116" Nom="P2C12" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2117" Nom="P2C5" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2118" Nom="P2C5" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2119" Nom="P2C5" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2120" Nom="P2C5" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2121" Nom="P2C5" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2122" Nom="P2C5" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2123" Nom="P2C5" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2124" Nom="P2C5" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2125" Nom="P2C5" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2126" Nom="P2C6" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2127" Nom="P2C6" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2128" Nom="P2C6" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2129" Nom="P2C6" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2130" Nom="P2C6" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2131" Nom="P2C6" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2132" Nom="P2C6" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2133" Nom="P2C7" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2134" Nom="P2C7" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2135" Nom="P2C7" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2136" Nom="P2C7" IdentNoeudAmont="101" IdentNoeudAval="104"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2137" Nom="P2C7" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2138" Nom="P2C7" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2139" Nom="P2C7" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2140" Nom="P2C7" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2141" Nom="P2C7" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2142" Nom="P2C7" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2143" Nom="P2C7" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2144" Nom="P2C7" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2145" Nom="P2C8" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2146" Nom="P2C8" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2147" Nom="P2C8" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2148" Nom="P2C8" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2149" Nom="P2C8" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2150" Nom="P2C8" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2151" Nom="P2C8" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2152" Nom="P2C8" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2153" Nom="P2C8" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2154" Nom="P2C8" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2155" Nom="P2C8" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2156" Nom="P2C8" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2157" Nom="P2C8" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2158" Nom="P2C8" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2159" Nom="P2C8" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2160" Nom="P2C8" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2161" Nom="P2C8" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2162" Nom="P2C9" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2163" Nom="P2C9" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2164" Nom="P2C9" IdentNoeudAmont="100" IdentNoeudAval="104"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2165" Nom="P2C9" IdentNoeudAmont="101" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2166" Nom="P2C9" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2167" Nom="P2C9" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2168" Nom="P2C9" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2169" Nom="P2C9" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2170" Nom="P2C9" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2171" Nom="P2C9" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2172" Nom="P2C9" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2173" Nom="P2C2" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2174" Nom="P2C2" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2175" Nom="P2C2" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2176" Nom="P2C2" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2177" Nom="P2C2" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2178" Nom="P2C2" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2179" Nom="P2C3" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2180" Nom="P2C3" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2181" Nom="P2C3" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2182" Nom="P2C3" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2183" Nom="P2C3" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2184" Nom="P2C4" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2185" Nom="P2C4" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2186" Nom="P2C4" IdentNoeudAmont="102" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2187" Nom="P2C4" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2188" Nom="P2C4" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2189" Nom="P2C4" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2190" Nom="P2C4" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2191" Nom="P2C4" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2192" Nom="P2C13" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2193" Nom="P2C13" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2194" Nom="P2C13" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2195" Nom="P2C14" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2196" Nom="P2C14" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2197" Nom="P2C14" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2198" Nom="P2C14" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2199" Nom="P2C14" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2200" Nom="P2C14" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2201" Nom="P2C14" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2202" Nom="P2C14" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2203" Nom="P2C15" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2204" Nom="P2C15" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2205" Nom="P2C15" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2206" Nom="P2C15" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2207" Nom="P2C15" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2208" Nom="P2C5" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2209" Nom="P1C6" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2211" Nom="P1C6" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2212" Nom="P1C7" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2213" Nom="P2C5" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2214" Nom="P2C11" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2215" Nom="P2C11" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2216" Nom="P1C6" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2217" Nom="P2C9" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2218" Nom="P2 - Blaesheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2219" Nom="P2_Blaesheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2220" Nom="P2_Blaesheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2221" Nom="P2_Blaesheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2222" Nom="P2_Blaesheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2223" Nom="P2_Blaesheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2224" Nom="P2_Eckbo" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2225" Nom="P2_Eckbo" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2226" Nom="P2_Eckbo" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2227" Nom="P2_Eckbo" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2228" Nom="P2_Eckbo" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2229" Nom="P2_Eckw." IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2230" Nom="P2_Eckw." IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2231" Nom="P2_Eckw." IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2232" Nom="P2_Eckw." IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2233" Nom="P2_Eckw." IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2234" Nom="P2_Eckw." IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2235" Nom="P2_Entz." IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2236" Nom="P2_Entz." IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2237" Nom="P2_Entz." IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2238" Nom="P2_Entz." IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2239" Nom="P2_Entz." IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2240" Nom="P2_Eschau" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2241" Nom="P2_Eschau" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2242" Nom="P2_Eschau" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2243" Nom="P2_Eschau" IdentNoeudAmont="101" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2244" Nom="P2_Eschau" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2245" Nom="P2_Eschau" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2246" Nom="P2_Eschau" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2247" Nom="P2_Fegersheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2248" Nom="P2_Fegersheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2249" Nom="P2_Fegersheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2250" Nom="P2_Fegersheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2251" Nom="P2_Fegersheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2252" Nom="P2_Fegersheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2253" Nom="P2_Fegersheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2254" Nom="P2_Fegersheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2255" Nom="P2_Fegersheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2256" Nom="P2_Fegersheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2257" Nom="P2_Fegersheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2258" Nom="P2_Geispo" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2259" Nom="P2_Geispo" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2260" Nom="P2_Geispo" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2261" Nom="P2_Geispo" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2262" Nom="P2_Geispo" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2263" Nom="P2_Geispo" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2264" Nom="P2_Geispo" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2265" Nom="P2_Geispo" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2266" Nom="P2_Holztheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2267" Nom="P2_Holtzheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2268" Nom="P2_Holtzheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2269" Nom="P2_Holtzheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2270" Nom="P2_Holtzheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2271" Nom="P2_Holtzheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2272" Nom="P2_LaWantz" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2273" Nom="P2_LaWantz" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2274" Nom="P2_LaWantz" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2275" Nom="P2_LaWantz" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2276" Nom="P2_LaWantz" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2277" Nom="P2_Lampert" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2278" Nom="P2_Lampert" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2279" Nom="P2_Lampert" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2280" Nom="P2_Lampert" IdentNoeudAmont="101" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2281" Nom="P2_Lampert" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2282" Nom="P2_Lampert" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2283" Nom="P2_Lampert" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2284" Nom="P2_Lampert" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2285" Nom="P2_Lips" IdentNoeudAmont="101" IdentNoeudAval="104"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2286" Nom="P2_Lips" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2287" Nom="P2_Lips" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2288" Nom="P2_Lips" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2289" Nom="P2_Lips" IdentNoeudAmont="101" IdentNoeudAval="104"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2290" Nom="P2_Mittel" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2291" Nom="P2_Mundo" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2292" Nom="P2_Mundo" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2293" Nom="P2_Mundo" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2294" Nom="P2_Mundo" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2295" Nom="P2_Mundo" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2296" Nom="P2_Mundo" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2297" Nom="P2_Mundo" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2298" Nom="P2_Mundo" IdentNoeudAmont="101" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2299" Nom="P2_Mundo" IdentNoeudAmont="101" IdentNoeudAval="104"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2300" Nom="P2_Mundo" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2301" Nom="P2_Mundo" IdentNoeudAmont="102" IdentNoeudAval="104"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2302" Nom="P2_Nieder" IdentNoeudAmont="101" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2303" Nom="P2_Nieder" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2304" Nom="P2_Nieder" IdentNoeudAmont="101" IdentNoeudAval="104"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2305" Nom="P2_Nieder" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2306" Nom="P2_Nieder" IdentNoeudAmont="104" IdentNoeudAval="106"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2307" Nom="P2_Ober" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2308" Nom="P2_Ober" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2309" Nom="P2_Ober" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2310" Nom="P2_Ober" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2311" Nom="P2_Ober" IdentNoeudAmont="102" IdentNoeudAval="104"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2312" Nom="P2_Ober" IdentNoeudAmont="101" IdentNoeudAval="104"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2313" Nom="P2_Ober" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2314" Nom="P2_Ober" IdentNoeudAmont="101" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2315" Nom="P2_Oberschaef." IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2316" Nom="P2_Oberschaef." IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2317" Nom="P2_Oberschaef." IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2318" Nom="P2_Oberschaef." IdentNoeudAmont="101" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2319" Nom="P2_Plobsheim" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2320" Nom="P2_Plobsheim" IdentNoeudAmont="104" IdentNoeudAval="106"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2321" Nom="P2_Reichstett" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2322" Nom="P2_Reichstett" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2323" Nom="P2_Reichstett" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2324" Nom="P2_Reichstett" IdentNoeudAmont="101" IdentNoeudAval="104"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2325" Nom="P2_Reichstett" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2326" Nom="P2_Souffel" IdentNoeudAmont="100" IdentNoeudAval="104"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2327" Nom="P2_Souffel" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2328" Nom="P2_Souffel" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2329" Nom="P2_Souffel" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2330" Nom="P2_Souffel" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2331" Nom="p2_Souffel" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2332" Nom="P2_Souffel" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2333" Nom="P2_Souffel" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2334" Nom="P2_Souffel" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2335" Nom="P2_Souffel" IdentNoeudAmont="101" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2336" Nom="P2_Souffel" IdentNoeudAmont="101" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2337" Nom="P2_Souffel" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2338" Nom="P2_Souffel" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2339" Nom="P2_Vend." IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2340" Nom="P2_Vend." IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2341" Nom="P2_Vend." IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2342" Nom="P2_Vend." IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2343" Nom="P2_Vend." IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2344" Nom="P2_Vend." IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2345" Nom="P2_Wolfisheim" IdentNoeudAmont="101" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2346" Nom="P2_Wolfisheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2347" Nom="P2_Wolfisheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2348" Nom="P2_Wolfisheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2349" Nom="P2_Wolfisheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2350" Nom="P2_Oberschaef." IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="2351" Nom="P2_Oberschaef." IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="X"
+           Longueur="100"/>
+      <ARC Ident="3061" Nom="Plaine des Bouchers -&gt; Rue du Doubs" IdentNoeudAmont="301"
+           IdentNoeudAval="771"
+           IdentPointMesure="306"
+           TypeReseau="P"
+           Longueur="530"/>
+      <ARC Ident="3500" Nom="Rue de Saales (337-&gt;302)" IdentNoeudAmont="337"
+           IdentNoeudAval="302"
+           IdentPointMesure="3500"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="6000" Nom="A35_Innenheim-Entzheim" IdentNoeudAmont="9903"
+           IdentNoeudAval="9902"
+           IdentPointMesure="0"
+           TypeReseau="U"
+           Longueur="100"/>
+      <ARC Ident="6001" Nom="A35_Entzheim-Vigie" IdentNoeudAmont="9902"
+           IdentNoeudAval="9903"
+           IdentPointMesure="0"
+           TypeReseau="U"
+           Longueur="100"/>
+      <ARC Ident="6002" Nom="A35_Vigie-Baggersee1" IdentNoeudAmont="9903"
+           IdentNoeudAval="9902"
+           IdentPointMesure="0"
+           TypeReseau="U"
+           Longueur="100"/>
+      <ARC Ident="6003" Nom="A35_Vigie-Baggersee2" IdentNoeudAmont="9902"
+           IdentNoeudAval="9903"
+           IdentPointMesure="0"
+           TypeReseau="U"
+           Longueur="100"/>
+      <ARC Ident="6004" Nom="A35_Baggersee-Contournement Sud1" IdentNoeudAmont="9903"
+           IdentNoeudAval="9902"
+           IdentPointMesure="0"
+           TypeReseau="U"
+           Longueur="100"/>
+      <ARC Ident="6005" Nom="A35_Baggersee-Contournement Sud2" IdentNoeudAmont="9903"
+           IdentNoeudAval="9902"
+           IdentPointMesure="0"
+           TypeReseau="U"
+           Longueur="100"/>
+      <ARC Ident="6006" Nom="A35_Contournement Sud-A351" IdentNoeudAmont="9902"
+           IdentNoeudAval="9903"
+           IdentPointMesure="0"
+           TypeReseau="U"
+           Longueur="100"/>
+      <ARC Ident="6007" Nom="A35_A351-A350" IdentNoeudAmont="9902" IdentNoeudAval="9903"
+           IdentPointMesure="0"
+           TypeReseau="U"
+           Longueur="100"/>
+      <ARC Ident="6008" Nom="A4_A350-Bischheim1" IdentNoeudAmont="9903"
+           IdentNoeudAval="9902"
+           IdentPointMesure="0"
+           TypeReseau="U"
+           Longueur="100"/>
+      <ARC Ident="6009" Nom="A4_A350-Bischheim2" IdentNoeudAmont="9901"
+           IdentNoeudAval="9902"
+           IdentPointMesure="0"
+           TypeReseau="U"
+           Longueur="100"/>
+      <ARC Ident="6010" Nom="A4_Bischheim-Reichstett1" IdentNoeudAmont="9902"
+           IdentNoeudAval="9903"
+           IdentPointMesure="0"
+           TypeReseau="U"
+           Longueur="100"/>
+      <ARC Ident="6011" Nom="A4_Bischheim_Reichstett2" IdentNoeudAmont="9901"
+           IdentNoeudAval="9902"
+           IdentPointMesure="0"
+           TypeReseau="U"
+           Longueur="100"/>
+      <ARC Ident="6012" Nom="A4_Reichstett-Echangeur Lauterbourg" IdentNoeudAmont="9900"
+           IdentNoeudAval="9212"
+           IdentPointMesure="0"
+           TypeReseau="U"
+           Longueur="100"/>
+      <ARC Ident="6013" Nom="A350" IdentNoeudAmont="9901" IdentNoeudAval="9902"
+           IdentPointMesure="0"
+           TypeReseau="U"
+           Longueur="100"/>
+      <ARC Ident="6014" Nom="A351-1" IdentNoeudAmont="9902" IdentNoeudAval="9903"
+           IdentPointMesure="0"
+           TypeReseau="U"
+           Longueur="100"/>
+      <ARC Ident="6015" Nom="A351-2" IdentNoeudAmont="9902" IdentNoeudAval="9903"
+           IdentPointMesure="0"
+           TypeReseau="U"
+           Longueur="100"/>
+      <ARC Ident="6016" Nom="N83_A35-Illkirch" IdentNoeudAmont="9901"
+           IdentNoeudAval="9902"
+           IdentPointMesure="0"
+           TypeReseau="U"
+           Longueur="100"/>
+      <ARC Ident="6017" Nom="N83_Illkirch-N353" IdentNoeudAmont="9331"
+           IdentNoeudAval="9900"
+           IdentPointMesure="0"
+           TypeReseau="U"
+           Longueur="100"/>
+      <ARC Ident="6018" Nom="RD1083_N353-Fegersheim" IdentNoeudAmont="9285"
+           IdentNoeudAval="9331"
+           IdentPointMesure="0"
+           TypeReseau="U"
+           Longueur="100"/>
+      <ARC Ident="6019" Nom="N353-1" IdentNoeudAmont="9331" IdentNoeudAval="9900"
+           IdentPointMesure="0"
+           TypeReseau="U"
+           Longueur="100"/>
+      <ARC Ident="6020" Nom="N353-2" IdentNoeudAmont="9900" IdentNoeudAval="9901"
+           IdentPointMesure="0"
+           TypeReseau="U"
+           Longueur="100"/>
+      <ARC Ident="7001" Nom="Rte Polygone (603-604)" IdentNoeudAmont="603"
+           IdentNoeudAval="604"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="7002" Nom="Saint Gothard - Peirotes" IdentNoeudAmont="9901"
+           IdentNoeudAval="9902"
+           IdentPointMesure="0"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="7003" Nom="de Gaulle Eckbo" IdentNoeudAmont="9901" IdentNoeudAval="9902"
+           IdentPointMesure="0"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="7004" Nom="rte de Saverne Oberhaus" IdentNoeudAmont="9900"
+           IdentNoeudAval="9901"
+           IdentPointMesure="0"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="7005" Nom="S?dillot" IdentNoeudAmont="9901" IdentNoeudAval="9902"
+           IdentPointMesure="0"
+           TypeReseau="P"
+           Longueur="100"/>
+      <ARC Ident="7010" Nom="Place de la Gare" IdentNoeudAmont="312" IdentNoeudAval="311"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="7012" Nom="Contournement Sud" IdentNoeudAmont="9903"
+           IdentNoeudAval="9902"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="7014" Nom="Pont du Canal" IdentNoeudAmont="9903" IdentNoeudAval="9900"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="7015" Nom="Place St.Thomas" IdentNoeudAmont="9903" IdentNoeudAval="9901"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="7018" Nom="Tr?mie Cronenbourg" IdentNoeudAmont="9900"
+           IdentNoeudAval="9331"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="7019" Nom="Bld Wilson" IdentNoeudAmont="801" IdentNoeudAval="884"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="7020" Nom="Rue de Wissembourg" IdentNoeudAmont="884"
+           IdentNoeudAval="403"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="7021" Nom="Bld Poincar?" IdentNoeudAmont="884" IdentNoeudAval="406"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="7023" Nom="Contournement Sud-&gt;A35" IdentNoeudAmont="9903"
+           IdentNoeudAval="9902"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="7025" Nom="Rue Schulmeister" IdentNoeudAmont="745" IdentNoeudAval="9903"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="7027" Nom="RD63" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="7028" Nom="Rue Principale, Mittelhausbergen" IdentNoeudAmont="100"
+           IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="7029" Nom="Rte de Brumath - Hoenheim" IdentNoeudAmont="100"
+           IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="7030" Nom="Foss? des Treize" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="7031" Nom="Rue du Gal Leclerc-Eckw." IdentNoeudAmont="100"
+           IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="7032" Nom="RN353-&gt;Fegersheim" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="7033" Nom="RD1083-&gt;RN353" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="7035" Nom="burckel" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="7038" Nom="Acc?s A351 Leroy Merlin" IdentNoeudAmont="100"
+           IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="7039" Nom="Eckbo - Canal" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="7040" Nom="Fr?res Eberts" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="7041" Nom="Gal de Gaulle" IdentNoeudAmont="100" IdentNoeudAval="102"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="7042" Nom="Rue Coulaux" IdentNoeudAmont="100" IdentNoeudAval="101"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="8000" Nom="Radar 355" IdentNoeudAmont="9903" IdentNoeudAval="9902"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="8001" Nom="Radar 1167" IdentNoeudAmont="9900" IdentNoeudAval="9901"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="8002" Nom="Radar 305" IdentNoeudAmont="9331" IdentNoeudAval="9285"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="8003" Nom="Radar 217" IdentNoeudAmont="9212" IdentNoeudAval="9285"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="8004" Nom="Hochfelden" IdentNoeudAmont="9212" IdentNoeudAval="9331"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="8005" Nom="Radar Rte de La Wantzenau" IdentNoeudAmont="9212"
+           IdentNoeudAval="9331"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+      <ARC Ident="8006" Nom="Radar Quai Gal Conrad" IdentNoeudAmont="9285"
+           IdentNoeudAval="9331"
+           IdentPointMesure="0"
+           TypeReseau="S"
+           Longueur="100"/>
+   </TableDesArcs>
+   <TableDesParcsDeStationnement>
+      <PRK Ident="1" Nom="ZENITH" NomCourt="ZENITH" NbPDM="4">
+         <IdentPDM>324</IdentPDM>
+         <IdentPDM>325</IdentPDM>
+         <IdentPDM>326</IdentPDM>
+         <IdentPDM>327</IdentPDM>
+      </PRK>
+      <PRK Ident="2" Nom="Bateliers" NomCourt="BATELIERS" NbPDM="0"/>
+      <PRK Ident="3" Nom="Broglie" NomCourt="BROGLIE" NbPDM="0"/>
+      <PRK Ident="4" Nom="P+R Baggersee" NomCourt="BAGGERSEE" NbPDM="0"/>
+      <PRK Ident="5" Nom="P+R Ducs d'Alsace" NomCourt="P+R DUCS " NbPDM="0"/>
+      <PRK Ident="6" Nom="P+R Elsau" NomCourt="P+R ELSAU" NbPDM="0"/>
+      <PRK Ident="7" Nom="P+R Rotonde" NomCourt="P+R ROTON" NbPDM="0"/>
+      <PRK Ident="8" Nom="Gare Courte Duree" NomCourt="GARE COUR" NbPDM="0"/>
+      <PRK Ident="9" Nom="Gare St.Aurelie" NomCourt="ST.AURELIE" NbPDM="0"/>
+      <PRK Ident="10" Nom="Gare Wodli" NomCourt="GARE WODLI" NbPDM="0"/>
+      <PRK Ident="11" Nom="Gutenberg" NomCourt="GUTENBERG" NbPDM="0"/>
+      <PRK Ident="12" Nom="Kleber" NomCourt="KLEBER" NbPDM="0"/>
+      <PRK Ident="13" Nom="Halles P1" NomCourt="HALLES P1" NbPDM="0"/>
+      <PRK Ident="14" Nom="Halles P2" NomCourt="HALLES P2" NbPDM="0"/>
+      <PRK Ident="15" Nom="P+R Boecklin" NomCourt="P+R BOECK" NbPDM="0"/>
+      <PRK Ident="16" Nom="P+R Krimmeri" NomCourt="KRIMMERI" NbPDM="0"/>
+      <PRK Ident="17" Nom="Petite France" NomCourt="PTE FRANCE" NbPDM="0"/>
+      <PRK Ident="18" Nom="P+R Rives de l'Aar" NomCourt="RIVES AAR" NbPDM="0"/>
+      <PRK Ident="19" Nom="St.Nicolas" NomCourt="ST.NICOLAS" NbPDM="0"/>
+      <PRK Ident="20" Nom="Tanneurs" NomCourt="TANNEURS" NbPDM="0"/>
+      <PRK Ident="21" Nom="Austerlitz" NomCourt="AUSTERLITZ" NbPDM="0"/>
+      <PRK Ident="22" Nom="Halles P3" NomCourt="HALLES P3" NbPDM="0"/>
+      <PRK Ident="23" Nom="Rivetoile P1" NomCourt="RIVETOILE" NbPDM="0"/>
+      <PRK Ident="24" Nom="P+R Hoenheim Gare" NomCourt="HOENHEIM" NbPDM="0"/>
+   </TableDesParcsDeStationnement>
+   <TableDesTrajets>
+      <TRJ Ident="1" Nom="c1167 vers c1162 entree ville" NomCourt="-" TypeTrajet="R"
+           TPmax="0"
+           IdentPoleDepart="1167"
+           IdentPoleArrivee="1162"
+           IdentNoeudDepart="1167"
+           IdentNoeudArrivee="1162"
+           NbArcs="6">
+         <IdentARC>5</IdentARC>
+         <IdentARC>7</IdentARC>
+         <IdentARC>9</IdentARC>
+         <IdentARC>11</IdentARC>
+         <IdentARC>13</IdentARC>
+         <IdentARC>15</IdentARC>
+      </TRJ>
+   </TableDesTrajets>
+</configuration>
